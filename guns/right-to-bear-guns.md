@@ -2,7 +2,7 @@
 
 ## Statement of Purpose
 
-This law gives all law abiding citizens the right to bear arma so that they can protect themselves from external invasions, internal threats and a tyrannical government. This law will implement the promise that was made in the Karachi Resolution of the Indian National Congress in 1931 and was later not fulfilled by the Consituent Assembly.
+This law gives all law abiding citizens the right to bear guns so that they can protect themselves from external invasions, internal threats and a tyrannical government. This law will implement the promise that was made in the Karachi Resolution of the Indian National Congress in 1931 and was later not fulfilled by the Consituent Assembly.
 
 > KR2. 1. Fundemental Rights of the people such as [...] vii. Right to keep and bear arms in accordance with regulations made in that behalf and such reservations as may be required- for public safety. </i>
 
