@@ -4,7 +4,7 @@
 
 Last year, I came across several opinions on whether the government should force people to stay at their homes when the COVID-19 cases were on the rise, primarily to flatten the curve and not overwhelm the healthcare system.
 
-1. Our government, the establishment news outlets and generally those who are well-off economically were of the opinion that it was a decision of “lives vs livelihoods”. They proposed a compulsory complete/partial stay-at-home order or what is famously called a “lockdown” in Bharat.
+1. Our government, the establishment news outlets and generally those who are economically well-off were of the opinion that it was a decision of “lives vs livelihoods”. They proposed a compulsory complete/partial stay-at-home order or what is famously called a “lockdown” in Bharat.
 
 2. While some others thought that we should not consider “livelihoods” or economics as a secondary factor and that livelihoods are equivalent to lives for many (like Professor Jay Bhattacharya said in [this](https://youtu.be/vLFfd9_JmaI) video). They had a different outlook on solving the problem (e.g. [Great Barrington Declaration](https://en.wikipedia.org/wiki/Great_Barrington_Declaration)).
 
