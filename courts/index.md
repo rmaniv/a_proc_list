@@ -1,6 +1,6 @@
 # BRF Topic: Corruption/nexuses of Indian judges
 
-A thread to discuss corruption/nexuses of Indian judges and Jury system as an alternative was once started on [Bharat Rakshak Forum](https://forums.bharat-rakshak.com/); but, it was deleted as it crossed 10 pages i.e. 400 posts. Those pages were saved by Mr. Rahul Mehta, the person who started this thread, and I got these pages from him. I have uploaded these pages on my website for all concerned citizens of Bharat who wish to read it.
+In 2002 AD, a thread was started to discuss corruption/nexuses of Indian judges and Jury system as an alternative; but, it was deleted as it crossed the 10 pages i.e. 400 posts limit. Those pages (9 in total, idk how) were saved by Mr. Rahul Mehta, the person who started this thread. I got these pages from him and uploaded them on my website. I'm putting the links here for all who want to read it.
 
 ## Index
 
