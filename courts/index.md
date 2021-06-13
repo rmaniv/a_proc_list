@@ -4,20 +4,20 @@ A thread to discuss corruption/nexuses of Indian judges and Jury system as an al
 
 ## Index
 
-Page 1: https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.01.htm
+[Page 1](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.01.htm)
 
-Page 2: https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.02.htm
+[Page 2](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.02.htm)
 
-Page 3: https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.03.htm
+[Page 3](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.03.htm)
 
-Page 4: https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.04.htm
+[Page 4](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.04.htm)
 
-Page 5: https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.05.htm
+[Page 5](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.05.htm)
 
-Page 6: https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.06.htm
+[Page 6](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.06.htm)
 
-Page 7: https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.07.htm
+[Page 7](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.07.htm)
 
-Page 8: https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.08.htm
+[Page 8](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.08.htm)
 
-Page 9: https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.09.htm
+[Page 9](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.09.htm)
