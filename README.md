@@ -1,6 +1,6 @@
 # Vinamr Sachdeva
 
-Hello, I'm Vinamr Sachdeva. I'm an Electrical Engineering undergraduate at the [University of Illinois at Urbana-Champaign](https://illinois.edu). This website has nothing to do with what I study or work on professionally - it's a pure political blog. I'll curate all of my political writings, videos and audio files here. 
+{Placeholder for about me}
 
 Contact: vinamrsachdeva [at] gmail [dot] com | [Twitter](https://twitter.com/vinamr) | [Facebook](https://facebook.com/vinamr.sachdeva.7)
 
