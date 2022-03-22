@@ -2,7 +2,7 @@
 
 <i> August 10, 2020 </i>
 
-Moving towards self-reliance is inevitable if we want to get rid of the lack of control over supply and technology that comes with imported weapons. It is quite obvious now that the current government’s plan to move towards self-reliance involves “Make in India”: a camouflage for FDI. A lot of “experts”, journalists across media houses & even veterans have proposed leapfrogging to current generation technology via FDI. A clear path towards weapons which are Made in India by Indians [[1]](#footnote-1) - which I think is the only solution to the problems with imports - doesn’t seem to be in their to-do list. In this first issue of my newsletter, I’m going to describe a thought experiment which may turn into reality if we continue with our efforts at being experts in Made in India by Foreigners weapons.
+Moving towards self-reliance is inevitable if we want to get rid of the lack of control over supply and technology that comes with imported weapons. It is quite obvious now that the current government’s plan to move towards self-reliance involves “Make in India”: a camouflage for FDI. A lot of “experts”, journalists across media houses & even veterans have proposed leapfrogging to current generation technology via FDI. A clear path towards weapons which are Made in India by Indians - which I think is the only solution to the problems with imports - doesn’t seem to be in their to-do list. In this first issue of my newsletter, I’m going to describe a thought experiment which may turn into reality if we continue with our efforts at being experts in Made in India by Foreigners weapons.
 
 Disclaimer: This account is purely born out of my imagination. Any resemblance to real world or legal entities is purely coincidental.
 
@@ -10,7 +10,7 @@ Axiom: hUS's national security establishment consists of hUSGov and companies ma
 
 Consider the following hypothetical scenario (hat tip: [Rahul Mehta](https://twitter.com/MehtaRahulC)):
 
-1. hIndia's (hereafter referred to as “our” and its relevant derivatives) airforce is heavily dependent on hLMIndia [[2]](#footnote-2) (a legal entity that hLM created in India to setup a manufacturing/assembling facility) for its fleet. 
+1. hIndia's (hereafter referred to as “our” and its relevant derivatives) airforce is heavily dependent on hLMIndia (a legal entity that hLM created in India to setup a manufacturing/assembling facility) for its fleet. 
 2. There’s a war and we need a rapid supply of spare parts and maybe even aircrafts if the war lasts long enough.
 3. The national security establishment of the hUS decides to delay help for hIndia (there may be several reasons for why this is the most likely scenario which I'll explain later) where either 
    - hLM is complicit in pursuing this strategy (the likely scenario), or
@@ -33,12 +33,3 @@ Secondly, let's get the limits of nationalization right. Nationalizing a company
 Regardless of the limitations of nationalization, hLMIndia's most likely decision of not establishing a full supply chain within hIndia's borders will itself render the nationalization effort futile. Thus, hUSGov can still control hGoI’s ability to fight a war, just like they will be able to do if we continue to import weapons and/or their components from them. QED.
 
 The only benefit FDI will bring is more jobs and foreign exchange as positives but at the same time, it’ll also bring a threat of [mass repatriation](https://youtu.be/O89CvcyCjhw) without having even a marginal effect on our ability to fight a war. Hence, we should end allowing FDI in defense, or at least bring it down again to 49% so that Indians can still have the control in peacetime and we’re able to build the supply chain in India itself to make it resilient to such bloodletting.
-
-[1](#footnote-anchor-1)
-
-as in the shareholders and employees of the weapon manufacturing companies are Indian citizens and are manufacturing within our borders or in one of our protectorates
-
-[2](#footnote-anchor-2)
-
-This thought experiment is both country-independent & company-independent. It would be valid even if we were talking about the fictional entity hFrance instead of hUS, or hBoeingIndia instead of hLMIndia.
-
