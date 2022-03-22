@@ -29,7 +29,9 @@ Before moving onto an analysis of our options for responding to such a turn of e
 
 Now that I’ve explained why I think such a strategy makes sense for the hUS, it’s important to know if apex leaders in the world think, or have thought in the past, in a similar manner. [Here](https://archive.org/details/tragedyofgreatpo00mear/page/154) are is excerpt from the book *The Tragedy of Great Power Politics* by American International Relations scholar John Mearsheimer which talks about various leaders and countries who’ve employed or thought about employing such a strategy which he calls “bloodletting”:
 
-[embedd image]
+![bloodletting1](bloodletting1.png)
+
+![bloodletting2](bloodletting2.png)
 
 Now that I *might* have convinced you on the possibility of such a scenario, it is important to look at what would be the possible options for us then. The only response I could think of other than pleading to the US - which is unfavourable as I demonstrated theoretically - is nationalizing the company hLMIndia. This strategy is doable: hIndia is not at the level that it can't exercise sovereign authority using its military and police inside its borders. The hindrance to that would be a direct/indirect military response by the hUS, which can only be deterred if we have a military that is realistically one of the strongest in the world. But it is also possible that hUS doesn't go to this extent; hence, it is also important for us to speculate whether we would be able to fulfill our demands for the ongoing war by pursuing the strategy of nationalization.
 
