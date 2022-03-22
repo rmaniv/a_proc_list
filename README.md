@@ -2,7 +2,7 @@
 
 {Placeholder for about me}
 
-Contact: vinamrsachdeva [at] gmail [dot] com | [Twitter](https://twitter.com/vinamr) | [Facebook](https://facebook.com/vinamr.sachdeva.7)
+Contact: vinamrsachdeva [at] gmail [dot] com | [Twitter](https://twitter.com/vinamrsachdeva) | [Facebook](https://facebook.com/vinamr.sachdeva.7)
 
 ## Index
 
