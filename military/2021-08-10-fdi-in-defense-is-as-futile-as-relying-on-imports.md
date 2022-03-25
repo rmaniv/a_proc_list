@@ -1,6 +1,6 @@
 ## FDI in defense is as futile as relying on imports
 
-<i> August 10, 2020 </i>
+<i> August 10, 2021 </i>
 
 Moving towards self-reliance is inevitable if we want to get rid of the lack of control over supply and technology that comes with imported weapons. It is quite obvious now that the current government’s plan to move towards self-reliance involves “Make in India”: a camouflage for FDI. A lot of “experts”, journalists across media houses & even veterans have proposed leapfrogging to current generation technology via FDI. A clear path towards weapons which are Made in India by Indians - which I think is the only solution to the problems with imports - doesn’t seem to be in their to-do list. In this first issue of my newsletter, I’m going to describe a thought experiment which may turn into reality if we continue with our efforts at being experts in Made in India by Foreigners weapons.
 
