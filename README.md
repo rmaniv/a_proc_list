@@ -6,6 +6,8 @@ Contact: vinamrsachdeva [at] gmail [dot] com | [Twitter](https://twitter.com/vin
 
 ## Index
 
-1. <a href = "https://vinamrsachdeva.github.io/a_proc_list/courts/">Courts</a>
+1. <a href = "https://vinamrsachdeva.github.io/a_proc_list/military/">Military</a>
 
-2. <a href = "https://vinamrsachdeva.github.io/a_proc_list/military/">Military</a>
+2. <a href = "https://vinamrsachdeva.github.io/a_proc_list/courts/">Courts</a>
+
+3. <a href = "https://vinamrsachdeva.github.io/a_proc_list/education/">Education</a>
