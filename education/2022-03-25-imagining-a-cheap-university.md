@@ -1,6 +1,6 @@
 # Imagining a cheap university
 
-*March 25, 2021*
+*March 25, 2022*
 
 I'm not going to talk about the bugs in the way universities look to train students because I know I lie either in the &quot;valley of despair&quot; or perhaps the &quot;know nothing&quot; region in the competence-axis of the [graph used to visualise the dunning-kruger effect](https://commons.wikimedia.org/wiki/File:Dunning%E2%80%93Kruger_Effect_01.svg). I&#39;ll just give a try on how we can reconstruct a cheap university that might not offer all of what the existing universities offer but will be much better for those who simply can&#39;t afford to attend a traditional one.
 
