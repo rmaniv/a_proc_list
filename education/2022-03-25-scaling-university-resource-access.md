@@ -1,4 +1,4 @@
-# Scaling university resource access
+# Scaling elite universities
 
 *March 25, 2022*
 
