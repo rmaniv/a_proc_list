@@ -1,5 +1,7 @@
 # Estimate of monthly payments each citizen can fetch from Dhanvapsi Passbook
 
+[Draft of law](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view)
+
 Monthly payments will constitute: 
 
 1. Mineral Royalties
