@@ -10,7 +10,7 @@ Monthly payments will constitute:
 
 This estimate is by Vipul VotevapsiCm.
 
-https://www.facebook.com/groups/179774627122206/posts/502769448156054/
+[https://www.facebook.com/groups/179774627122206/posts/502769448156054/](https://www.facebook.com/groups/179774627122206/posts/502769448156054/)
 
 <i><b>[Vipul's post starts here]</b></i>
 
@@ -92,25 +92,25 @@ The  overall valuation (total domestic market price, not royalty) of minor  mine
 
 Links:
 
-(M1) https://pqars.nic.in/annex/254/AU2249.pdf
+(M1) [https://pqars.nic.in/annex/254/AU2249.pdf](https://pqars.nic.in/annex/254/AU2249.pdf)
 
-(M2) https://www.ppac.gov.in/content/149_1_PricesPetroleum.aspx
+(M2) [https://www.ppac.gov.in/content/149_1_PricesPetroleum.aspx](https://www.ppac.gov.in/content/149_1_PricesPetroleum.aspx)
 
-(M3) https://pqars.nic.in/annex/254/AU753.pdf
+(M3) [https://pqars.nic.in/annex/254/AU753.pdf](https://pqars.nic.in/annex/254/AU753.pdf)
 
-(N1) https://www.indiabudget.gov.in/budget2020-21/doc/rec/ntr.pdf
+(N1) [https://www.indiabudget.gov.in/budget2020-21/doc/rec/ntr.pdf](https://www.indiabudget.gov.in/budget2020-21/doc/rec/ntr.pdf)
 
 <i><b>[End of Vipul's post]</b></i>
 
 ## Land Rents
 
-Value of total surplus government owned land (both Central + State) = Rs. 340 lakh crore (?) [Source: https://wiki.dhanvapasi.com/index.php/Public_Wealth_Wiki#Land;  Though no public land database has been published by the govt, our enemies = fraud Dhanvapasi bill's team have put this figure on their  website. Refer the hyperlinks in Table 2 and 3 of their wiki.]
+Value of total surplus government owned land (both Central + State) = Rs. 340 lakh crore (?) [[Source](https://wiki.dhanvapasi.com/index.php/Public_Wealth_Wiki#Land);  Though no public land database has been published by the govt, our enemies = fraud Dhanvapasi bill's team have put this figure on their  website. Refer the hyperlinks in Table 2 and 3 of their wiki.]
 
 Considering  their Rs. 340 lakh crore value, and a 2% <b> per annum </b> rent on it, total  rent = <b> Rs. 404.8 per citizen per month </b>. (This excludes potential  royalties from land leased currently.)
 
 ## PSU profits
 
-Total  profits of all Central PSUs in FY21 = Rs. 1.89 lakh crore = <b> Rs. 112.5  per citizen per month </b> (considering 140 crore citizens). [Source: https://www.timesnownews.com/business-economy/companies/profit-of-psus-surges-over-37-to-rs-1-89-lakh-cr-in-fy21-govt-article-90219227] (This doesn't include profits of State PSUs.)
+Total  profits of all Central PSUs in FY21 = Rs. 1.89 lakh crore = <b> Rs. 112.5  per citizen per month </b> (considering 140 crore citizens). [[Source](https://www.timesnownews.com/business-economy/companies/profit-of-psus-surges-over-37-to-rs-1-89-lakh-cr-in-fy21-govt-article-90219227)] (This doesn't include profits of State PSUs.)
 
 ## Per citizen per month payment
 
