@@ -9,7 +9,10 @@
   </tr>
 </table>
 
-Contact: vinamrsachdeva [at] gmail [dot] com | [Twitter](https://twitter.com/vinamrsachdeva) | [Facebook](https://facebook.com/vinamr.sachdeva.7) | [YouTube](https://www.youtube.com/channel/UC8hW40QHDk682Cc2hljgSQA)
+Contact | vinamrsachdeva [at] gmail [dot] com | 
+ - | [Twitter](https://twitter.com/vinamrsachdeva) 
+ - | [Facebook](https://facebook.com/vinamr.sachdeva.7) 
+ - | [YouTube](https://www.youtube.com/channel/UC8hW40QHDk682Cc2hljgSQA)
 
 ## Index
 
