@@ -1,9 +1,7 @@
 <table>
   <tr> 
     <td><img src="vinamr.png"></td>
-    <td><h1>Vinamr Sachdeva</h1></td>
-  <tr>
-    <td colspan = "2">I'm an Indian citizen, studying Electrical Engineering at <a href = "https://illinois.edu">UIUC</a> in the US. Here, you'll find a collection of my opinion on our Parliament’s legislations, PM's decisions and actions of various parties and activist groups. I'll write about the importance of the laws I think we need to enact to solve the problems which can only (or relatively more efficiently) be solved by the government. Occasionally, I’ll write about how detached academia - specifically those researchers producing research which acts as an input for policy making - is from reality.</td>
+    <td><h1>Vinamr Sachdeva</h1> I'm an Indian citizen, studying Electrical Engineering at <a href = "https://illinois.edu">UIUC</a> in the US. Here, you'll find a collection of my opinion on our Parliament’s legislations, PM's decisions and actions of various parties and activist groups. I'll write about the importance of the laws I think we need to enact to solve the problems which can only (or relatively more efficiently) be solved by the government. Occasionally, I’ll write about how detached academia - specifically those researchers producing research which acts as an input for policy making - is from reality.</td>
    </tr> 
   </tr>
 </table>
