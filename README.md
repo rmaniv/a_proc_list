@@ -6,8 +6,10 @@ Contact: vinamrsachdeva [at] gmail [dot] com | [Twitter](https://twitter.com/vin
 
 ## Index
 
-1. <a href = "https://vinamrsachdeva.github.io/a_proc_list/military/">Military</a>
+1. <a href = "https://vinamrsachdeva.github.io/a_proc_list/citizens-dividend/">Citizens' Dividend</a>
 
-2. <a href = "https://vinamrsachdeva.github.io/a_proc_list/courts/">Courts</a>
+2. <a href = "https://vinamrsachdeva.github.io/a_proc_list/military/">Military</a>
 
-3. <a href = "https://vinamrsachdeva.github.io/a_proc_list/education/">Education</a>
+3. <a href = "https://vinamrsachdeva.github.io/a_proc_list/courts/">Courts</a>
+
+4. <a href = "https://vinamrsachdeva.github.io/a_proc_list/education/">Education</a>
