@@ -7,6 +7,7 @@ Monthly payments will constitute:
 1. Mineral Royalties
 2. Land Rent
 3. Profits from PSUs
+4. Spectrum Royalties
 
 ## Mineral Royalties
 
@@ -114,8 +115,14 @@ Considering  their Rs. 340 lakh crore value, and a 2% <b> per annum </b> rent on
 
 Total  profits of all Central PSUs in FY21 = Rs. 1.89 lakh crore = <b> Rs. 112.5  per citizen per month </b> (considering 140 crore citizens). [[Source](https://www.timesnownews.com/business-economy/companies/profit-of-psus-surges-over-37-to-rs-1-89-lakh-cr-in-fy21-govt-article-90219227)] (This doesn't include profits of State PSUs.)
 
+## Spectrum Royalties
+
+[placeholder]
+
+<b> = Rs. X per citizen per month </b>
+
 ## Per citizen per month payment
 
-Mineral royalty + Land rent + Central PSU profits = 8.8 + Rs. 27 + Rs. 112.5 + Rs. 404.8 = <b> Rs. 553.1 per citizen per month</b>.
+Mineral royalty + Land rent + Central PSU profits + Spectrum Royalties = 8.8 + Rs. 27 + Rs. 112.5 + Rs. 404.8 + Rs. X = <b> Rs. 553.1 + X per citizen per month</b>.
 
 (This is the crude payment that we can estimate before the Dhanvapsi Passbook law comes into effect. Once it comes into effect, many changes might occur (apart from the regular fluctuations in mineral/land rent rates). Some changes may increase these payments, for e.g. potential increase in mineral royalty rates due to pressure on government to reduce corruption in mine auctions, potential increase in PSU profits due to pressure on government to reduce inefficiency of PSUs. At the same time, there might be a decrease land rents due to decrease in land prices because of increase in supply of surplus public land. However, this effect is bound to benefit citizens by reducing the rent they themselves have to pay for their houses.)
