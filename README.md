@@ -1,3 +1,5 @@
+![vinamr.png](vinamr.png)
+
 # Vinamr Sachdeva
 
 I'm an Indian citizen, studying Electrical Engineering at [UIUC](https://illinois.edu) in the US. Here, you'll find a collection of my musings on our Parliament’s legislations, PM's decisions and actions of various parties and activist groups, and enumerate and explain the importance of the solutions I think we need to enact to solve the problems which can only (or relatively more efficiently) be solved by the government. Occasionally, I’ll write about how detached academia - specifically those researchers producing research which acts as an input for policy making - is from reality.
