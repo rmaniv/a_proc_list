@@ -4,7 +4,7 @@
     <td>Voter ID: TZD2213544 (publically available in <a href = "https://ceodelhi.gov.in/ElectoralRoll2020/PartDetailsEng.aspx?num=zPWOIn0+Jh4Eh1A0VSBaDw==&ii=e">Electoral roll of NCT of Delhi, 43 - Malvia Nagar</a>, Part - 5, SI. No. 774)</td>
   <tr>
     <td> <img src="vinamr.png" width = "1080px" height = "300px" ></td>
-    <td>I'm an Indian citizen, studying Electrical Engineering at [UIUC](https://illinois.edu) in the US. Here, you'll find a collection of my musings on our Parliament’s legislations, PM's decisions and actions of various parties and activist groups, and enumerate and explain the importance of the solutions I think we need to enact to solve the problems which can only (or relatively more efficiently) be solved by the government. Occasionally, I’ll write about how detached academia - specifically those researchers producing research which acts as an input for policy making - is from reality.</td>
+    <td>I'm an Indian citizen, studying Electrical Engineering at <a href = "https://illinois.edu">UIUC</a> in the US. Here, you'll find a collection of my musings on our Parliament’s legislations, PM's decisions and actions of various parties and activist groups, and enumerate and explain the importance of the solutions I think we need to enact to solve the problems which can only (or relatively more efficiently) be solved by the government. Occasionally, I’ll write about how detached academia - specifically those researchers producing research which acts as an input for policy making - is from reality.</td>
    </tr> 
   </tr>
 </table>
