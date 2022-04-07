@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>Voter ID</td>
-    <td colspan = "3">TZD2213544 (publicly available in <a href = "https://ceodelhi.gov.in/ElectoralRoll2020/validateUser.aspx?id=VxfPPJbcjRIyAov/qOxx37RCqZSEMYVZzh0KzH6aD38=">Electoral roll of NCT of Delhi, 43 - Malvia Nagar, Part - 5, SI. No. 774)</a></td>
+    <td colspan = "3">TZD2213544 (publicly available in <a href = "https://ceodelhi.gov.in/ElectoralRoll2020/validateUser.aspx?id=VxfPPJbcjRIyAov/qOxx37RCqZSEMYVZzh0KzH6aD38=">Electoral roll of NCT of Delhi, 43 - Malvia Nagar, Part - 5, SI. No. 774</a>)</td>
   </tr>
   <tr>
     <td>Contact</td>
