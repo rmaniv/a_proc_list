@@ -106,7 +106,7 @@ Links:
 
 ## Land Rents
 
-Value of total surplus government owned land (both Central + State) = Rs. 340 lakh crore (?) [[Source](https://wiki.dhanvapasi.com/index.php/Public_Wealth_Wiki#Land);  Though no public land database has been published by the govt, our enemies = fraud Dhanvapasi bill's team have put this figure on their  website. Refer the hyperlinks in Table 2 and 3 of their wiki.]
+Value of total surplus government owned land (both Central + State) = Rs. 340 lakh crore (?) [[Source](https://wiki.dhanvapasi.com/index.php/Public_Wealth_Wiki#Land);  Though no public land database has been published by the govt, [Rajesh Jain](https://twitter.com/rajeshjain)'s group has put this figure on their  website. Refer the hyperlinks in Table 2 and 3 of their wiki.]
 
 Considering  their Rs. 340 lakh crore value, and a 2% <b> per annum </b> rent on it, total  rent = <b> Rs. 404.8 per citizen per month </b>. (This excludes potential  royalties from land leased currently.)
 
