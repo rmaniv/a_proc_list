@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>Contact</td>
-    <td colspan = "3">vinamrsachdeva [at] gmail [dot] com <br> vls4 [at] illinois [dot] edu</td>
+    <td colspan = "3">vinamrsachdeva [at] gmail [dot] com; <br> vls4 [at] illinois [dot] edu</td>
   </tr>
   <tr>
     <td>Connect</td>
