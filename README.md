@@ -30,4 +30,4 @@
 
 3. <a href = "https://vinamrsachdeva.github.io/a_proc_list/courts/">Courts</a>
 
-4. <a href = "https://vinamrsachdeva.github.io/a_proc_list/education/">Education</a>
+4. <a href = "https://vinamrsachdeva.github.io/a_proc_list/ip/">IP rights</a>
