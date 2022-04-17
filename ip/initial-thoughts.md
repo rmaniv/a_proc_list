@@ -8,7 +8,7 @@ benefits or hurts the inventor, and it is the latter whose welfare
 matters more for everyone's well-being.
 
 The anarcho-capitalist slogan "Ideas are NOT property" is best left for
-fairy tales next to their non-aggression principle. Moral arguments are
+fairy tales, right after their non-aggression principle. Moral arguments are
 pointless to discuss.
 
 A utilitarian argument for patent rights would require a cost-benefit
