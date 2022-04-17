@@ -32,7 +32,7 @@ faith (\"exceptional cases\") for getting compensated for their attorney
 fees. Amending the section to make the losing plaintiff always pay for
 it would take care of the patent trolls.
 
-Then come [Asetek's GPU liquid cooling
+Then comes [Asetek's GPU liquid cooling
 patent](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=8755179.PN.&OS=PN/8755179&RS=PN/8755179),
 [Amazon's
 one-click](https://worldwide.espacenet.com/patent/search/family/025457073/publication/US5960411A?q=pn%3DUS5960411)
