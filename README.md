@@ -3,7 +3,7 @@
     <td colspan = "4"><b>Vinamr Sachdeva</b></td>
     <tr>
       <td><img src="vinamr.png"></td>
-      <td colspan = "3"> I'm an Indian citizen (currently studying Electrical Engineering at <a href = "https://illinois.edu">UIUC</a> in the US). Here, you'll find a collection of my musings on our Parliament’s legislations, PM's decisions and actions of various parties and activist groups. I'll write about the importance of the laws I think we need to enact to solve the problems which can only (or relatively more efficiently) be solved by the government. Occasionally, I’ll write about how detached academia - specifically those researchers producing research which acts as an input for policy making - is from reality.</td>
+      <td colspan = "3"> I'm an Indian citizen. Here, you'll find a collection of my musings on our Parliament’s legislations, PM's decisions and actions of various parties and activist groups. I'll write about the importance of the laws I think we need to enact to solve the problems which can only (or relatively more efficiently) be solved by the government. Occasionally, I’ll write about how detached academia - specifically those researchers producing research which acts as an input for policy making - is from reality.</td>
   </tr>
   <tr>
     <td>Voter ID</td>
