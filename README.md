@@ -28,6 +28,8 @@
 
 2. <a href = "https://vinamrsachdeva.github.io/a_proc_list/military/">Military</a>
 
-3. <a href = "https://vinamrsachdeva.github.io/a_proc_list/courts/">Courts</a>
+3. <a href = "https://vinamrsachdeva.github.io/a_proc_list/guns/">Right to bear arms</a>
 
-4. <a href = "https://vinamrsachdeva.github.io/a_proc_list/ip/">IP rights</a>
+4. <a href = "https://vinamrsachdeva.github.io/a_proc_list/courts/">Courts</a>
+
+5. <a href = "https://vinamrsachdeva.github.io/a_proc_list/ip/">IP rights</a>
