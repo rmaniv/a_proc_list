@@ -33,3 +33,5 @@
 4. <a href = "https://vinamrsachdeva.github.io/a_proc_list/courts/">Courts</a>
 
 5. <a href = "https://vinamrsachdeva.github.io/a_proc_list/ip/">IP rights</a>
+
+6. <a href = "https://vinamrsachdeva.github.io/a_proc_list/history/">History</a>
