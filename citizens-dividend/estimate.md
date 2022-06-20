@@ -4,6 +4,8 @@
 
 DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view))
 
+## Table 1: Contribution of different public assets
+
 <table>
   <tr>
     <th>Asset</th>
@@ -54,6 +56,8 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>[To be updated.]</td>
   </tr>
  </table>
+
+## Table 2: Total dividends for citizens & military (as per the draft of the law)
  <table>
   <tr>
     <td><b>For</b></td>
