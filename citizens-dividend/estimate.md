@@ -62,8 +62,8 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   </tr>
   <tr>
     <td><b>Citizens (67% of total)</b></td>
-    <td>More than Rs. 369<b>per citizen per month</b></td>
-    <td colspan = "2">This does not include payments from auction of electromagnetic spectrum, sale of underground water and increase in royalties and rents as explained in comments beside each asset class in the above table.</td>
+    <td>More than Rs. 369 <b>per citizen per month</b></td>
+    <td rowspan = "2">This does not include payments from auction of electromagnetic spectrum, sale of underground water and increase in royalties and rents as explained in comments beside each asset class in the above table.</td>
   </tr>
   <tr>
     <td><b>Ministry of Defense (33% of total)</b></td>
