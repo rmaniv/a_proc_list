@@ -1,5 +1,7 @@
 # Estimate of monthly payments each citizen can fetch from Dhanvapsi Passbook
 
+<body>
+
 <i>April 7, 2022</i>
 
 DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view))
@@ -54,3 +56,5 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Once this law comes into effect, the people will demand their dividends to increase. This will put pressure on the government to conduct fair auctions for mining, lease of public land, electromagnetic spectrum, etc (b) reduce illegal mining, enchroachment on public land, illegal occupation of public land, etc.</b></td>
   </tr>
 </table>
+
+</body>
