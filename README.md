@@ -24,14 +24,14 @@
 
 ## Index
 
-1. <a href = "https://vinamrsachdeva.github.io/a_proc_list/citizens-dividend/">Citizens' Dividend</a>
+1. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/">Citizens' Dividend</a>
 
-2. <a href = "https://vinamrsachdeva.github.io/a_proc_list/military/">Military</a>
+2. <a href = "https://vinamrsachdeva.github.io/military/">Military</a>
 
-3. <a href = "https://vinamrsachdeva.github.io/a_proc_list/guns/">Right to bear arms</a>
+3. <a href = "https://vinamrsachdeva.github.io/guns/">Right to bear arms</a>
 
-4. <a href = "https://vinamrsachdeva.github.io/a_proc_list/courts/">Courts</a>
+4. <a href = "https://vinamrsachdeva.github.io/courts/">Courts</a>
 
-5. <a href = "https://vinamrsachdeva.github.io/a_proc_list/ip/">IP rights</a>
+5. <a href = "https://vinamrsachdeva.github.io/ip/">IP rights</a>
 
-6. <a href = "https://vinamrsachdeva.github.io/a_proc_list/history/">History</a>
+6. <a href = "https://vinamrsachdeva.github.io/history/">History</a>
