@@ -40,17 +40,25 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   <tr>
     <td>Electromagnetic Spectrum</td>
     <td>Royalty</td>
-    <td>Rs. Y</td>
+    <td>Rs. </td>
     <td>Rs. X</td>
     <td>[<a href="">4</a>]</td>
     <td>[To be updated.]</td>
   </tr>
-  <tr>
-    <td><b>Estimated Total</td>
-    <td></td>
+   <tr>
+    <td>Underground Water</td>
+    <td>System of payment described <a href="https://www.rahulmehta.com/eas01.htm">here</a>.</td>
     <td>Rs. </td>
-    <td>More than Rs. (554 + X)</td>
+    <td>Rs. Y</td>
     <td>[<a href="">5</a>]</td>
-    <td>Once this law comes into effect, the people will demand their dividends to increase. This will put pressure on the government to conduct fair auctions for mining, lease of public land, electromagnetic spectrum, etc (b) reduce illegal mining, enchroachment on public land, illegal occupation of public land, etc.</b></td>
+    <td>[To be updated.]</td>
+  </tr>
+  <tr>
+    <td><b>Estimated Total</b></td>
+    <td><b></b></td>
+    <td><b>Rs. </b></td>
+    <td><b>More than Rs. (554 + X)</b></td>
+    <td><b></b></td>
+    <td><b>Once this law comes into effect, the people will demand their dividends to increase. This will put pressure on the government to conduct fair auctions for mining, lease of public land, electromagnetic spectrum, etc (b) reduce illegal mining, enchroachment on public land, illegal occupation of public land, etc.</b></td>
   </tr>
 </table>
