@@ -53,6 +53,8 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>[<a href="">5</a>]</td>
     <td>[To be updated.]</td>
   </tr>
+ </table>
+ <table>
   <tr>
     <td><b>Estimated Total</b></td>
     <td>More than Rs. 554 + X + Y <b>per citizen per month</b></td>
