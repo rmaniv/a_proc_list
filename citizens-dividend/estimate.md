@@ -21,7 +21,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Rs. 5.04 thousand crores</td>
     <td>Rs. 36</td>
     <td>[<a href="https://www.facebook.com/groups/179774627122206/posts/502769448156054/">1</a>]</td>
-    <td>[<a href="">a</a>]</a></td>
+    <td>[<a href="https://vinamrsachdeva.github.io/a_proc_list/citizens-dividend/estimate#a-minerals">a</a>]</td>
   </tr>
   <tr>
     <td>Public Land</td>
@@ -29,7 +29,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Rs. 6.8 lakh crore</td>
     <td>Rs. 405</td>
     <td>[<a href="https://wiki.dhanvapasi.com/index.php/Public_Wealth_Wiki#Land">2</a>]</td>
-    <td>[<a href="">b</a>]</a></td>
+    <td>[<a href="https://vinamrsachdeva.github.io/a_proc_list/citizens-dividend/estimate#b-public-land">b</a>]</td>
   </tr>
   <tr>
     <td>Public Sector Units (PSU)</td>
@@ -37,7 +37,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Rs. 1.89 lakh crore</td>
     <td>Rs. 113</td>
     <td>[<a href="https://www.timesnownews.com/business-economy/companies/profit-of-psus-surges-over-37-to-rs-1-89-lakh-cr-in-fy21-govt-article-90219227">3</a>]</td>
-    <td>[<a href="">c</a>]</a></td>
+    <td>[<a href="https://vinamrsachdeva.github.io/a_proc_list/citizens-dividend/estimate#c-psus">c</a>]</td>
   </tr>
   <tr>
     <td>Electromagnetic Spectrum</td>
@@ -62,12 +62,10 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   <tr>
     <td><b>For</b></td>
     <td><b>Estimated total</b></td>
-    <td><b>Comments</b></td>
   </tr>
   <tr>
     <td><b>Citizens (67% of total)</b></td>
     <td>More than Rs. 369 <b>per citizen per month</b></td>
-    <td rowspan = "2">This does not include payments from auction of electromagnetic spectrum, sale of underground water and increase in royalties and rents as explained in comments beside each asset class in the above table.</td>
   </tr>
   <tr>
     <td><b>Ministry of Defense (33% of total)</b></td>
