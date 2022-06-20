@@ -5,14 +5,14 @@
 DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view))
 
 <table>
-  <th>
-    <td>Asset</td>
-    <td>Payment received as</td>
-    <td>Total per annum</td>
-    <td>Per person per month</td>
-    <td>Source</td>
-    <td>Comments</td>
-  </th>
+  <tr>
+    <th>Asset</th>
+    <th>Payment received as</th>
+    <th>Total per annum</th>
+    <th>Per person per month</th>
+    <th>Source</th>
+    <th>Comments</th>
+  </tr>
   <tr>
     <td>Mineral</td>
     <td>Royalties</td>
