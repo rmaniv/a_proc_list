@@ -55,10 +55,6 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   </tr>
   <tr>
     <td><b>Estimated Total</b></td>
-    <td><b></b></td>
-    <td><b>Rs. </b></td>
     <td><b>More than Rs. 554 + X + Y</b></td>
-    <td><b></b></td>
-    <td>Dhanvapsi Passbook + Elections = the dividends citizens receive every month and their source (natural resources) will become a political issue. Citizens and activists will pressurize on the government to conduct fair auctions for mining, lease of public land, electromagnetic spectrum, and reduce illegal mining, enchroachment on public land, illegal occupation of public land, theft of underground water, so that they receive more dividends.</td>
   </tr>
 </table>
