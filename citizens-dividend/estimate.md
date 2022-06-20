@@ -9,7 +9,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <th>Asset</th>
     <th>Payment received as</th>
     <th>Total per annum</th>
-    <th>Per person per month</th>
+    <th>Per citizen per month</th>
     <th>Source</th>
     <th>Comments</th>
   </tr>
@@ -27,7 +27,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Rs. 6.8 lakh crore</td>
     <td>Rs. 405</td>
     <td>[<a href="https://wiki.dhanvapasi.com/index.php/Public_Wealth_Wiki#Land">2</a>]</td>
-    <td>2. Total value of surplus public land = Rs. 340 lakh crore. I assumed a rent of 2% per annum for this estimate (which is roughly the market rate). <br> 2. This figure of Rs. 340 lakh crore has been calculated by "<a href="https://www.zaubacorp.com/company/FREE-A-BILLION-PRIVATE-LIMITED/U72900MH2012PTC226614">Free A Billion</a>". <br> 3. This excludes potential  royalties from land leased currently. E.g. <a href="https://www.indiatoday.in/india/north/story/delhi-airport-land-deal-scam-cag-aviation-ministry-103088-2012-05-23">Government of India gave 4,799.09 acre of prime land to, its private sector partner, DIAL for development of Delhi airport for a paltry lease rent of Rs. 4,79,909 per year for 60 years</a> Similarly, other cronies also grab public land during auctions at the price of peanuts. The land rent received will increase once these backroom deals with cronies. <br> 4. As this surplus public land comes for sale into the real estate market, it'll drive down the cost of land and also rent. This will reduce the land rent people will get via this law but will indirectly benefit people as they'll be able to buy/rent real esttate at a proportionally cheaper cost.</td>
+    <td>2. Total value of surplus public land = Rs. 340 lakh crore. I assumed a rent of 2% per annum for this estimate (which is roughly the market rate). <br> 2. This figure of Rs. 340 lakh crore has been calculated by "<a href="https://www.zaubacorp.com/company/FREE-A-BILLION-PRIVATE-LIMITED/U72900MH2012PTC226614">Free A Billion</a>". <br> 3. This excludes potential  royalties from land leased currently. E.g. <a href="https://www.indiatoday.in/india/north/story/delhi-airport-land-deal-scam-cag-aviation-ministry-103088-2012-05-23">Government of India gave 4,799.09 acre of prime land to, its private sector partner, DIAL for development of Delhi airport for a paltry lease rent of Rs. 4,79,909 per year for 60 years</a> Similarly, other cronies also grab public land during auctions at the price of peanuts. The land rent received will increase once these backroom deals with cronies. <br> 4. As this surplus public land comes for sale into the real estate market, it'll drive down the cost of land and also rent. This will reduce the land rent citizens will get via this law but will indirectly benefit citizens as they'll be able to buy/rent real esttate at a proportionally cheaper cost.</td>
   </tr>
   <tr>
     <td>Public Sector Units (PSU)</td>
@@ -57,8 +57,8 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td><b>Estimated Total</b></td>
     <td><b></b></td>
     <td><b>Rs. </b></td>
-    <td><b>More than Rs. (554 + X)</b></td>
+    <td><b>More than Rs. 554 + X + Y</b></td>
     <td><b></b></td>
-    <td><b>Once this law comes into effect, the people will demand their dividends to increase. This will put pressure on the government to conduct fair auctions for mining, lease of public land, electromagnetic spectrum, etc (b) reduce illegal mining, enchroachment on public land, illegal occupation of public land, etc.</b></td>
+    <td>Dhanvapsi Passbook + Demcoracy (Elections) means that the dividends citizens receive every month will become a political issue. Citizens and activists will pressurize on the government to conduct fair auctions for mining, lease of public land, electromagnetic spectrum, and reduce illegal mining, enchroachment on public land, illegal occupation of public land, theft of underground water, so that they receive more dividends. Will these dividends (~Rs. 500-1,000 per citizen per month) be enough to put public pressure on the government? In my humble opinion, yes. <a href = "https://indianexpress.com/article/explained/explainspeaking-a-brief-history-of-indias-poverty-levels-7612086/">~20% of India is under the Tendulkar Poverty Line</a> i.e. they earn <b>less than ~Rs 30 per day</b> = less than Rs. 900 per day. This means that this Dhanvapsi Passbook law will double their income. Also, an average Indian household of 5 members earning Rs. 10,000-20,000 per month will receive Rs. 3,000-6,000 every month for all their family members (Rs. 500-1,000 per month per citizen). This increase of 30% income is also sufficient for them to put pressure on the government to somehow increase it.</td>
   </tr>
 </table>
