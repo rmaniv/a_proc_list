@@ -6,14 +6,14 @@ In 2002 AD, a thread was started on [Bharat Rakshak Forum](https://forums.bharat
 
 **Pages**
 
-[1](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.01.htm) | [2](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.02.htm) | [3](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.03.htm) | [4](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.04.htm) | [5](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.05.htm) | [6](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.06.htm) | [7](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.07.htm) | [8](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.08.htm) | [9](https://vinamrsachdeva.github.io/a_proc_list/courts/BRF,year2002.judge_vs_jury.09.htm)
+[1](https://vinamrsachdeva.github.io/courts/BRF,year2002.judge_vs_jury.01.htm) | [2](https://vinamrsachdeva.github.io/courts/BRF,year2002.judge_vs_jury.02.htm) | [3](https://vinamrsachdeva.github.io/courts/BRF,year2002.judge_vs_jury.03.htm) | [4](https://vinamrsachdeva.github.io/courts/BRF,year2002.judge_vs_jury.04.htm) | [5](https://vinamrsachdeva.github.io/courts/BRF,year2002.judge_vs_jury.05.htm) | [6](https://vinamrsachdeva.github.io/courts/BRF,year2002.judge_vs_jury.06.htm) | [7](https://vinamrsachdeva.github.io/courts/BRF,year2002.judge_vs_jury.07.htm) | [8](https://vinamrsachdeva.github.io/courts/BRF,year2002.judge_vs_jury.08.htm) | [9](https://vinamrsachdeva.github.io/a_proc_list/BRF,year2002.judge_vs_jury.09.htm)
 
 ## Jury trial vs Bench trial
 
-1. Mehta, Rahul. [*Mathematical proof to show that “Jury System” is superior than the “judge system”*](https://vinamrsachdeva.github.io/a_proc_list/courts/jury/401.html) ([PDF](https://rahulmehta.com/401.pdf))
-2. Mehta, Rahul. [*Importance of courts and why judge system ALWAYS fails*](https://vinamrsachdeva.github.io/a_proc_list/courts/jury/402.html) ([PDF](https://rahulmehta.com/402.pdf))
-3. Mehta, Rahul. [*Why we, the citizens of India, must expel ALL the judges and bring the Jurors onboard*](https://vinamrsachdeva.github.io/a_proc_list/courts/jury/403.html) ([PDF](https://rahulmehta.com/403.pdf))
+1. Mehta, Rahul. [*Mathematical proof to show that “Jury System” is superior than the “judge system”*](https://vinamrsachdeva.github.io/courts/jury/401.html) ([PDF](https://rahulmehta.com/401.pdf))
+2. Mehta, Rahul. [*Importance of courts and why judge system ALWAYS fails*](https://vinamrsachdeva.github.io/courts/jury/402.html) ([PDF](https://rahulmehta.com/402.pdf))
+3. Mehta, Rahul. [*Why we, the citizens of India, must expel ALL the judges and bring the Jurors onboard*](https://vinamrsachdeva.github.io/courts/jury/403.html) ([PDF](https://rahulmehta.com/403.pdf))
 
 ## Uncategorized
 
-1. [Trial of Socrates](https://vinamrsachdeva.github.io/a_proc_list/courts/socrates)
+1. [Trial of Socrates](https://vinamrsachdeva.github.io/courts/socrates)
