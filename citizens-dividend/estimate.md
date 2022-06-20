@@ -55,6 +55,6 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   </tr>
   <tr>
     <td><b>Estimated Total</b></td>
-    <td><b>More than Rs. 554 + X + Y</b></td>
+    <td>More than Rs. 554 + X + Y <b>per citizen per month</b></td>
   </tr>
 </table>
