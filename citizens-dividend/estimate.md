@@ -1,7 +1,5 @@
 # Estimate of monthly payments each citizen can fetch from Dhanvapsi Passbook
 
-<body>
-
 <i>April 7, 2022</i>
 
 DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view))
@@ -18,7 +16,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   <tr>
     <td>Mineral</td>
     <td>Royalties</td>
-    <td>&#8377 5.04 thousand crores</td>
+    <td>₹ 5.04 thousand crores</td>
     <td>&#8377 36</td>
     <td>[<a href="https://www.facebook.com/groups/179774627122206/posts/502769448156054/">1</a>]</td>
     <td> 1. 2nd and 3rd degree indirect conversations with staff working at mining companies reveals that only 1-10% of mining is on-books and so government isn't receiving royalties for the rest of the illegal mining (90-99% of total). Hence, this royalty rate is expected to increase as the government takes steps to reduce illegal mining. <br> 2. Any attempt at opening a mining company will involve you bribing the licensing authority (e.g. Coal Minister for mining coal) and his arbitrary decision on granting you mining license (influenced by his nexus with existing mining companies) make minign a closed industry riddled by mafia. Making it an open industry by removing such crony-favourable licensing laws and implementing trial by jury to end the role of mafia will also increase competition in the industry and drive up royalty rates in auctions. <br> 3. An observation of how mining auctions are rigged: <a href="https://www.facebook.com/mehtarahulc/posts/pfbid022LcaSvhXHChPqyEqb6JThKMKceL3VYtSmqEaTdE6Ghd4Hck87gJUhrmhxCtZzXEDl">Mehta, Rahul. How mineral royalty theft is implemented?. 2020, May 5.</a></td>
@@ -56,5 +54,3 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Once this law comes into effect, the people will demand their dividends to increase. This will put pressure on the government to conduct fair auctions for mining, lease of public land, electromagnetic spectrum, etc (b) reduce illegal mining, enchroachment on public land, illegal occupation of public land, etc.</b></td>
   </tr>
 </table>
-
-</body>
