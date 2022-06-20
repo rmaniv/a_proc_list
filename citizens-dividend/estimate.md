@@ -41,7 +41,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Electromagnetic Spectrum</td>
     <td>Royalty</td>
     <td>Rs. </td>
-    <td>Rs. X</td>
+    <td>Rs. </td>
     <td>[<a href="">4</a>]</td>
     <td>[To be updated.]</td>
   </tr>
@@ -49,16 +49,16 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Underground Water</td>
     <td>System of payment described <a href="https://www.rahulmehta.com/eas01.htm">here</a>.</td>
     <td>Rs. </td>
-    <td>Rs. Y</td>
+    <td>Rs. </td>
     <td>[<a href="">5</a>]</td>
     <td>[To be updated.]</td>
   </tr>
  </table>
  <table>
   <tr>
-    <td></td>
-    <td>Estimated total</td>
-    <td>Comments</td>
+    <td><b>For</b></td>
+    <td><b>Estimated total</b></td>
+    <td><b>Comments</b></td>
   </tr>
   <tr>
     <td><b>Citizens (67% of total)</b></td>
@@ -67,6 +67,6 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   </tr>
   <tr>
     <td><b>Ministry of Defense (33% of total)</b></td>
-    <td>More than Rs. 3.1 lakh crore<b>per year</b></td>
+    <td>More than Rs. 3.1 lakh crore <b>per year</b></td>
   </tr>
 </table>
