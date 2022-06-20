@@ -21,7 +21,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Rs. 5.04 thousand crores</td>
     <td>Rs. 36</td>
     <td>[<a href="https://www.facebook.com/groups/179774627122206/posts/502769448156054/">1</a>]</td>
-    <td>[<a href="https://vinamrsachdeva.github.io/a_proc_list/citizens-dividend/estimate#a-minerals">a</a>]</td>
+    <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#a-minerals">a</a>]</td>
   </tr>
   <tr>
     <td>Public Land</td>
@@ -29,7 +29,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Rs. 6.8 lakh crore</td>
     <td>Rs. 405</td>
     <td>[<a href="https://wiki.dhanvapasi.com/index.php/Public_Wealth_Wiki#Land">2</a>]</td>
-    <td>[<a href="https://vinamrsachdeva.github.io/a_proc_list/citizens-dividend/estimate#b-public-land">b</a>]</td>
+    <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#b-public-land">b</a>]</td>
   </tr>
   <tr>
     <td>Public Sector Undertakings (PSUs)</td>
@@ -37,7 +37,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>Rs. 1.89 lakh crore</td>
     <td>Rs. 113</td>
     <td>[<a href="https://www.timesnownews.com/business-economy/companies/profit-of-psus-surges-over-37-to-rs-1-89-lakh-cr-in-fy21-govt-article-90219227">3</a>]</td>
-    <td>[<a href="https://vinamrsachdeva.github.io/a_proc_list/citizens-dividend/estimate#c-psus">c</a>]</td>
+    <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#c-psus">c</a>]</td>
   </tr>
   <tr>
     <td>Electromagnetic Spectrum</td>
