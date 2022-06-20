@@ -32,7 +32,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>[<a href="https://vinamrsachdeva.github.io/a_proc_list/citizens-dividend/estimate#b-public-land">b</a>]</td>
   </tr>
   <tr>
-    <td>Public Sector Units (PSU)</td>
+    <td>Public Sector Units (PSUs)</td>
     <td>Profit</td>
     <td>Rs. 1.89 lakh crore</td>
     <td>Rs. 113</td>
