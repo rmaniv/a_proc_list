@@ -14,8 +14,8 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <th>Comments</th>
   </tr>
   <tr>
-    <td>Mineral</td>
-    <td>Royalties</td>
+    <td>Minerals</td>
+    <td>Royalty</td>
     <td>Rs. 5.04 thousand crores</td>
     <td>Rs. 36</td>
     <td>[<a href="https://www.facebook.com/groups/179774627122206/posts/502769448156054/">1</a>]</td>
