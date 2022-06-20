@@ -45,7 +45,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>[<a href="">4</a>]</td>
     <td>[To be updated.]</td>
   </tr>
-   <tr>
+  <tr>
     <td>Underground Water</td>
     <td>System of payment described <a href="https://www.rahulmehta.com/eas01.htm">here</a>.</td>
     <td>Rs. </td>
@@ -56,7 +56,17 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
  </table>
  <table>
   <tr>
-    <td><b>Estimated Total</b></td>
-    <td>More than Rs. 554 + X + Y <b>per citizen per month</b></td>
+    <td></td>
+    <td>Estimated total</td>
+    <td>Comments</td>
+  </tr>
+  <tr>
+    <td><b>Citizens (67% of total)</b></td>
+    <td>More than Rs. 369<b>per citizen per month</b></td>
+    <td colspan = "2">This does not include payments from auction of electromagnetic spectrum, sale of underground water and increase in royalties and rents as explained in comments beside each asset class in the above table.</td>
+  </tr>
+  <tr>
+    <td><b>Ministry of Defense (33% of total)</b></td>
+    <td>More than Rs. 3.1 lakh crore<b>per year</b></td>
   </tr>
 </table>
