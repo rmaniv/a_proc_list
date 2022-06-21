@@ -25,9 +25,9 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   </tr>
   <tr>
     <td>Public Land</td>
-    <td>Lease Rent</td>
-    <td>Rs. 6.8 lakh crore</td>
-    <td>Rs. 405</td>
+    <td>Lease Rent (3% of market value per annum)</td>
+    <td>Rs. 10.2 lakh crore</td>
+    <td>Rs. 607</td>
     <td>[<a href="https://wiki.dhanvapasi.com/index.php/Public_Wealth_Wiki#Land">2</a>]</td>
     <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#b-public-land">b</a>]</td>
   </tr>
@@ -42,18 +42,18 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   <tr>
     <td>Electromagnetic Spectrum</td>
     <td>Royalty</td>
-    <td>Rs. </td>
-    <td>Rs. </td>
-    <td>[<a href="">4</a>]</td>
-    <td>[To be updated.]</td>
+    <td>Rs. 40 thousand crore</td>
+    <td>Rs. 24</td>
+    <td>[<a href="https://dot.gov.in/reports-statistic/2471">4</a>]</td>
+    <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#d-spectrum">d</a>]</td>
   </tr>
   <tr>
     <td>Underground Water</td>
-    <td>System of payment described <a href="https://www.rahulmehta.com/eas01.htm">here</a>.</td>
+    <td>Allowance</td>
     <td>Rs. </td>
     <td>Rs. </td>
-    <td>[<a href="">5</a>]</td>
-    <td>[To be updated.]</td>
+    <td>[<a href="https://www.rahulmehta.com/eas01.htm">5</a>]</td>
+    <td>[Not known.]</td>
   </tr>
  </table>
 
@@ -65,11 +65,11 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   </tr>
   <tr>
     <td><b>Citizens (67% of total)</b></td>
-    <td>More than Rs. 369 <b>per citizen per month</b></td>
+    <td>More than Rs. 522 <b>per citizen per month</b></td>
   </tr>
   <tr>
     <td><b>Ministry of Defense (33% of total)</b></td>
-    <td>More than Rs. 3.1 lakh crore <b>per year</b></td>
+    <td>More than Rs. 4.3 lakh crore <b>per year</b></td>
   </tr>
 </table>
 
@@ -84,10 +84,15 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
 ### [b] Public Land
 
 1. Total value of surplus public land = Rs. 340 lakh crore. I assumed a rent of 2% per annum for this estimate (which is roughly the market rate).
-2. This figure of Rs. 340 lakh crore has been calculated by "<a href="https://www.zaubacorp.com/company/FREE-A-BILLION-PRIVATE-LIMITED/U72900MH2012PTC226614">Free A Billion</a>". <br> 3. This excludes potential  royalties from land leased currently. E.g. <a href="https://www.indiatoday.in/india/north/story/delhi-airport-land-deal-scam-cag-aviation-ministry-103088-2012-05-23">Government of India gave 4,799.09 acre of prime land to, its private sector partner, DIAL for development of Delhi airport for a paltry lease rent of Rs. 4,79,909 per year for 60 years</a> Similarly, other cronies also grab public land during auctions at the price of peanuts. The land rent received will increase once these backroom deals with cronies.
-3. As this surplus public land comes for sale into the real estate market, it'll drive down the cost of land and also rent. This will reduce the land rent citizens will get via this law but will indirectly benefit citizens as they'll be able to buy/rent real esttate at a proportionally cheaper cost.
+2. This figure of Rs. 340 lakh crore has been calculated by "<a href="https://www.zaubacorp.com/company/FREE-A-BILLION-PRIVATE-LIMITED/U72900MH2012PTC226614">Free A Billion</a>".
+3. This excludes potential  royalties from land leased currently. E.g. <a href="https://www.indiatoday.in/india/north/story/delhi-airport-land-deal-scam-cag-aviation-ministry-103088-2012-05-23">Government of India gave 4,799.09 acre of prime land to, its private sector partner, DIAL for development of Delhi airport for a paltry lease rent of Rs. 4,79,909 per year for 60 years</a> Similarly, other cronies also grab public land during auctions at the price of peanuts. The land rent received will increase once these backroom deals with cronies. As this surplus public land comes for sale into the real estate market, it'll drive down the cost of land and also rent. This will reduce the land rent citizens will get via this law but will indirectly benefit citizens as they'll be able to buy/rent real esttate at a proportionally cheaper cost.
 
 ### [c] PSUs
 
 1. This does not include profits of State Government PSUs.
 2. PSUs riddled with inefficiency and corruption reduced the net profit citizens (the real shareholders of PSUs) can receive out as dividends. Hence, citizens' direct control over their directors by giving citizens' the right to elect and expel directors anytime will reduce this corruption and inefficiency and will increase their profits and the amount that citizens' can take as dividends.
+
+### [d] Spectrum
+
+1. I took an average of Demartment of Communication's annual non-tax revenue from 2012 to 2017, which came out around Rs. 40,000 crore. This will change widely as and when new bands are auctioned.
+2. Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but it won't change the total amount by much since most DoT PSUs are running at losses. For now I've assumed all of it as spectrum royalties but I'll update this figure soon so that it is more accurate.
