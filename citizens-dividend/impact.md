@@ -9,3 +9,5 @@ https://www.business-standard.com/article/economy-policy/india-s-per-capita-inco
 https://indianexpress.com/article/india/india-very-unequal-top-10-hold-57-of-national-income-inequality-report-7661506/
 
 https://www.statista.com/statistics/482584/india-households-by-annual-income/
+
+https://economictimes.indiatimes.com/jobs/middle-income-households-account-for-largest-chunk-of-indias-unemployed-population-cmie/articleshow/90563660.cms?from=mdr
