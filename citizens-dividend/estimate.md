@@ -94,5 +94,5 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
 
 ### [d] Spectrum
 
-1. I took an average of Demartment of Communication's annual non-tax revenue from 2012 to 2017, which came out around Rs. 40,000 crore. This will change widely as and when new bands are auctioned.
+1. I took an average of Demartment of Telecommunication's annual non-tax revenue from 2012 to 2017, which came out around Rs. 40,000 crore. This will change widely as and when new bands are auctioned.
 2. Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but it won't change the total amount by much since most DoT PSUs are running at losses. For now I've assumed all of it as spectrum royalties but I'll update this figure soon so that it is more accurate.
