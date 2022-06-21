@@ -90,7 +90,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
 ### [c] PSUs
 
 1. This does not include profits of State Government PSUs.
-2. PSUs riddled with inefficiency and corruption reduced the net profit citizens (the real shareholders of PSUs) can receive out as dividends. Hence, citizens' direct control over their directors by giving citizens' the right to elect and expel directors anytime will reduce this corruption and inefficiency and will increase their profits and the amount that citizens' can take as dividends.
+2. PSUs riddled with inefficiency and corruption reduce the net profit citizens (the real shareholders of PSUs) can receive as dividends. Hence, citizens' direct control over their directors by giving citizens' the right to elect and expel directors anytime will reduce this corruption and inefficiency and will increase their profits and the amount that citizens' can take as dividends.
 
 ### [d] Spectrum
 
