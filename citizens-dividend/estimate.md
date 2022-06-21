@@ -18,8 +18,8 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   <tr>
     <td>Minerals</td>
     <td>Royalty</td>
-    <td>Rs. 5.04 thousand crores</td>
-    <td>Rs. 36</td>
+    <td>Rs. 52.2 thousand crores</td>
+    <td>Rs. 31</td>
     <td>[<a href="https://www.facebook.com/groups/179774627122206/posts/502769448156054/">1</a>]</td>
     <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#a-minerals">a</a>]</td>
   </tr>
@@ -65,7 +65,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   </tr>
   <tr>
     <td><b>Citizens (67% of total)</b></td>
-    <td>More than Rs. 522 <b>per citizen per month</b></td>
+    <td>More than Rs. 519 <b>per citizen per month</b></td>
   </tr>
   <tr>
     <td><b>Ministry of Defense (33% of total)</b></td>
