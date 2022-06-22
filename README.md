@@ -31,7 +31,3 @@
 3. <a href = "https://vinamrsachdeva.github.io/guns/">Right to bear arms</a>
 
 4. <a href = "https://vinamrsachdeva.github.io/courts/">Courts</a>
-
-5. <a href = "https://vinamrsachdeva.github.io/ip/">IP rights</a>
-
-6. <a href = "https://vinamrsachdeva.github.io/history/">History</a>
