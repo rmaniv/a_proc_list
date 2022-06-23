@@ -8,13 +8,18 @@ I think we can conduct 200,000 jury trials concurrently with our present 20,000 
 
 In order to prove this to you, I first need to prove that judges and juries can function asynchronously.
 
-Basically, the judge will **not** sit beside the jury while the trial is being conducted. 1 judge will be responsible for answering questions of law for 10 jury trials. The judge can answer questions of law without the jury being present except deciding whether an objection to [questions to / answers of] witnessds or arguments of either counsel. The procedure for deciding on the admissibility of evidence and whether an objection should be sustained or overruled can be as follows:
+Basically, the judge will **not** sit beside the jury while the trial is being conducted. 1 judge will be responsible for answering questions of law for 10 jury trials. The judge can answer questions of law without the jury being present except deciding whether an objection to [questions to / answers of] witnessds or arguments of either counsel. 
+
+The procedure for deciding on the admissibility of evidence and whether an objection on a counsel's question during examination/cross-examination of witness should be sustained or overruled can be decided before the trial even starts as follows:
 
 1. The plaintiff's and defendant's counsel will document (a) all evidence and (b) all the questions they wish to ask any witness before the trial starts to the judge. 
-2. The judge will give evidence and the list of questions to the opposing counsel once he received them. The opposing counsel can then send a list of all objections they have against certain evidence or questions. 
+2. The judge will give evidence and the list of questions to the opposing counsel once he receives them. The opposing counsel can then send a list of all objections they have against certain evidence or questions. 
 3. The judge will then decide whether an evidence is admissible or not a particular evidence is admissible or whether he wants to sustain or overrule an objection. The judge will document all admissible evidence and the lists of all questions to which there were no objections or they were overruled and provide that document to both counsels and the "case coordinator" (let's call this "the case file" for now).
 4. If any counsel presents in front of the jury an evidence deemed in admissible by the judge or a question to which the objection has been sustained, the opposing counsel can raise an objection. 
 5. The case coordinator will then verify from the case file and tell the jury whether the arguing is counsel presenting an inadmissible evidence or a question against which the objection was sustained. If either counsel disagrees with the case coordinator, they can show their case files to the jury. The jury's decision on whether they want to see the evidence or hear the witness' answer to the question will be final.
+6. Any additional questions that the counsel wants to ask after the trial has started will have to be provided to the judge and opposing counsel before the start of the next day of the trial. The opposing counsel will provide their objections to the judge who'll then decide whether to sustain/overrule and then update the case file for the next day of the trial.
+
+As far as objections to witness' testomy are concerned: [incomplete]
 
 This way judges and juries can function asynchronously.
 
