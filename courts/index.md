@@ -16,7 +16,7 @@ In 2002 AD, a thread was started on [Bharat Rakshak Forum](https://forums.bharat
 
 ## Implementation of jury trials in India
 
-1. [How many more judges will we need to conduct 200,000 trials at a time?](vinamrsachdeva.github.io/courts/implement#1)
+1. [How many more judges will we need to conduct 200,000 jury trials concurrently?](vinamrsachdeva.github.io/courts/implement#1)
 
 ## Uncategorized
 
