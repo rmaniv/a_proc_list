@@ -2,9 +2,9 @@
 
 # 1
 
-**How many more judges will we need to conduct 200,000 trials at a time?**
+**How many more judges will we need to conduct 200,000 trials concurrently?**
 
-I think we can conduct 200,000 jury trials at a time with our present 20,000 judges. We don't need to recruit a single new judge for conducting 200,000 jury trials at a time. 
+I think we can conduct 200,000 jury trials concurrently with our present 20,000 judges. We don't need to recruit a single new judge for conducting 200,000 jury trials at a time. 
 
 In order to prove this to you, I first need to prove that judges and juries can function asynchronously.
 
