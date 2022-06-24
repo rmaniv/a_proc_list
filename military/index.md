@@ -3,6 +3,7 @@
 ## FDI in defense
 
 1. <a href = "https://vinamrsachdeva.github.io/military/fdi">2021, August 10: FDI in defense is as futile as relying on imports</a>
+2. <a href = "https://vinamrsachdeva.github.io/guns/">2022, May 28: Evidence shows More Guns does NOT mean More Crime</a>
 
 ## Weapons superiority and historical empires
 
