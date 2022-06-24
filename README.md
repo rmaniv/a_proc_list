@@ -24,10 +24,8 @@
 
 ## Index
 
-1. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/">Citizens' Dividend</a>
+1. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/">Poverty</a>
 
-2. <a href = "https://vinamrsachdeva.github.io/military/">Military</a>
+2. <a href = "https://vinamrsachdeva.github.io/military/">War</a>
 
-3. <a href = "https://vinamrsachdeva.github.io/guns/">Right to bear arms</a>
-
-4. <a href = "https://vinamrsachdeva.github.io/courts/">Courts</a>
+3. <a href = "https://vinamrsachdeva.github.io/courts/">Justice</a>
