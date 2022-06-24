@@ -21,4 +21,4 @@ In 2002 AD, a thread was started on [Bharat Rakshak Forum](https://forums.bharat
 ## Uncategorized
 
 1. [Trial of Socrates](https://vinamrsachdeva.github.io/courts/socrates)
-2. [Initial thoughts on IP rights](https://vinamrsachdeva.io/courts/ip1)
+2. [Initial thoughts on IP rights](https://vinamrsachdeva.github.io/courts/ip1)
