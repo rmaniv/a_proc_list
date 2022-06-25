@@ -81,17 +81,17 @@ Note: All citizens will receive payments from Dhanvapsi passbook but I'm only sh
   <tr>
     <th>Annual household income</th>
     <th>Share of total households</th>
-    <th>% increase in income after Dhanvapsi passbook</th>
+    <th>% income increase</th>
   </tr>
   <tr>
     <td>less than Rs. 1,00,000</td>
     <td>16.6%</td>
-    <td><b>30%</b> (if annual household income is Rs. 1,00,000) <br> <b>60%</b> (if annual household income is Rs. 50,000)</td>
+    <td>more than 30%</td>
   </tr>
   <tr>
     <td>between Rs. 1,00,000 and Rs. 2,00,000</td>
     <td>45%</td>
-    <td><b>15%</b> (if annual household income is Rs. 2,00,000) <br> <b>20%</b> (if annual household income is Rs. 1,50,000)</td>
+    <td>between 15% and 30%</td>
   </tr>
 </table>
 
