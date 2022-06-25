@@ -75,7 +75,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
 
 ## Table 3: % increase in income of Indian households after Dhanvapsi passbook
 
-Note: All citizens will receive payments from Dhanvapsi passbook but I'm only showing numbers for 2 income groups which I think will ebnefit the most.
+Note: All citizens will receive payments from Dhanvapsi passbook but I'm only showing numbers for 2 income groups which I think will benefit the most.
 
 <table>
   <tr>
@@ -85,12 +85,12 @@ Note: All citizens will receive payments from Dhanvapsi passbook but I'm only sh
   </tr>
   <tr>
     <td>less than Rs. 1,00,000</td>
-    <td>16.6%</td>
+    <td>poorest 16.6%</td>
     <td>more than 30%</td>
   </tr>
   <tr>
     <td>between Rs. 1,00,000 and Rs. 2,00,000</td>
-    <td>45%</td>
+    <td>next 45%</td>
     <td>between 15% and 30%</td>
   </tr>
 </table>
