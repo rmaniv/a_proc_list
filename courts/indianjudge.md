@@ -6,7 +6,7 @@
 
 One can directly go to the Magistrate with a complaint of a cognizable offense and the Magistrate can direct the police to register an FIR and investigate the matter.
 
-> 156. Police officer's power to investigate cognizable case.
+> Section 156. Police officer's power to investigate cognizable case.
 > 
 > (1) Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case which a Court having jurisdiction over the local area within the limits of such station would have power to inquire into or try under the provisions of Chapter XIII.
 > 
@@ -24,7 +24,7 @@ One can directly go to the Magistrate with a complaint of a cognizable offense a
 
 (2.1) Judges can themselves prepare list of those who should be allowed to be public prosecutors.
 
-> 24. Public Prosecutors.
+> Section 24. Public Prosecutors.
 > 
 > (4) The District Magistrate shall, in consultation with the Sessions Judge, prepare a panel of names of persons, who are, in his opinion fit to be appointed as Public Prosecutors or Additional Public Prosecutors for the district. 
 > 
@@ -34,7 +34,7 @@ One can directly go to the Magistrate with a complaint of a cognizable offense a
 
 (2.2) Magistrate can allow victim to have private prosecution if public prosecutors are misfit.
 
-> 302. Permission to conduct prosecution.
+> Section 302. Permission to conduct prosecution.
 > 
 > (1) Any Magistrate inquiring into or trying a case may permit the prosecution to be conducted by any person other than a police officer below the rank of Inspector; but no person, other than the Advocate General or Government Advocate or a Public Prosecutor or Assistant Public Prosecutor, shall be entitled to do so without such permission: Provided that no police officer shall be permitted to conduct the prosecution if he has taken part in the investigation into the offence with respect to which the accused is being prosecuted.
 > 
@@ -48,6 +48,6 @@ One can directly go to the Magistrate with a complaint of a cognizable offense a
 
 (3.2) Judges can themselves examine (ask questions to) any witness if prosecutor is not “asking the right questions” as per the judge.
 
-> 311. Power to summon material witness, or examine person present. Any Court may, at any stage of any inquiry, trial or other proceeding under this Code, summon any person as a witness, or examine any person in attendance, though not summoned as a witness, or. recall and re- examine any person already examined; and the Court shall summon and examine or recall and re- examine any such person if his evidence appears to it to be essential to the just decision of the case.”
+> Section 311. Power to summon material witness, or examine person present. Any Court may, at any stage of any inquiry, trial or other proceeding under this Code, summon any person as a witness, or examine any person in attendance, though not summoned as a witness, or. recall and re- examine any person already examined; and the Court shall summon and examine or recall and re- examine any such person if his evidence appears to it to be essential to the just decision of the case.”
 
 [Section 311 of CrPC](https://indiankanoon.org/doc/1780550/)
