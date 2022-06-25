@@ -65,7 +65,7 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
   </tr>
   <tr>
     <td><b>Citizens (67% of total)</b></td>
-    <td>More than Rs. 519 <b>per citizen per month</b></td>
+    <td>More than Rs. 519 <b>per citizen per month</b><br> i.e. Rs. 32,000 <b>per household per year</b></td>
   </tr>
   <tr>
     <td><b>Ministry of Defense (33% of total)</b></td>
