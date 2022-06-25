@@ -60,8 +60,8 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
 ## Table 2: Total dividends for citizens & military (as per the draft of the law)
  <table>
   <tr>
-    <td><b>For</b></td>
-    <td><b>Estimated total</b></td>
+    <th>For</th>
+    <th>Estimated total</th>
   </tr>
   <tr>
     <td><b>Citizens (67% of total)</b></td>
@@ -72,6 +72,32 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>More than Rs. 4.3 lakh crore <b>per year</b></td>
   </tr>
 </table>
+
+## Table 3: % increase in income of Indian households after Dhanvapsi passbook
+
+Note: All citizens will receive payments from Dhanvapsi passbook but I'm only showing numbers for 2 income groups which I think will ebnefit the most.
+
+<table>
+  <tr>
+    <th>Annual household income</th>
+    <th>Share of total households</th>
+    <th>% increase in income after Dhanvapsi passbook</th>
+  </tr>
+  <tr>
+    <td>less than Rs. 1,00,000</td>
+    <td>16.6%</td>
+    <td><b>30%</b> (if annual household income is Rs. 1,00,000) <br> <b>60%</b> (if annual household income is Rs. 50,000)</td>
+  </tr>
+  <tr>
+    <td>between Rs. 1,00,000 and Rs. 2,00,000</td>
+    <td>45%</td>
+    <td><b>15%</b> (if annual household income is Rs. 2,00,000) <br> <b>20%</b> (if annual household income is Rs. 1,50,000)</td>
+  </tr>
+</table>
+
+[Source: Consumer Pyramids Household Survey (CPHS)]
+
+1 Indian household = 4.8 members [Source: National Family Health Survey (NFHS)]
 
 ## Comments
 
