@@ -47,6 +47,10 @@ DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/
     <td>[<a href="https://dot.gov.in/reports-statistic/2471">4</a>]</td>
     <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#d-spectrum">d</a>]</td>
   </tr>
+  <tr>
+    <th colspan = "2">Total funds per citizen per month</th>
+    <th colspan = "4">Rs. 775</th>
+  </tr>
  </table>
 
 ## Table 2: Total dividends for citizens & military (as per the draft of the law)
