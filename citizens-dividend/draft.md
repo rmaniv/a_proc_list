@@ -1,8 +1,6 @@
 # DhanVapsi Passbook– Directly Deposit Mineral Royalty in Citizens Account
 
-| Summary of this Law: This law has been written to stop the loot of the country's minerals. Soon after this proposed law is published in the gazette, all the minerals and natural resources under the control of the Government of India will be declared the property of the citizens of the country, and within 30 days each voter will get a DhanVapsi Passbook. Then the royalty and rent received from all the minerals + spectrum + government land of the country will be deposited in a bank account called Joint Account of 135 crores Indians. 65% of this amount collected will be distributed equally among all Indians and 35% will go to the Army. Entry of the amount of money given to an individual will come in his DhanVapsi Passbook.
-
-National Mineral Royalty Officer (NMRO), who will collect royalty by auctioning the minerals, will be under VoteVapsi Passbook and the citizens will be able to replace him by going to the Patwari office for giving their opinion for his replacement. If there is a complaint of scam or any other complaint against the mineral officer or his staff, then the right to hear and give punishment will not be with the judge but with the jury of ordinary citizens. This law prohibits the sale of all mines in the country. There is no need to pass this law from Parliament. The Prime Minister can print it directly in the gazette. |
+| Summary of this Law: This law has been written to stop the loot of the country's minerals. Soon after this proposed law is published in the gazette, all the minerals and natural resources under the control of the Government of India will be declared the property of the citizens of the country, and within 30 days each voter will get a DhanVapsi Passbook. Then the royalty and rent received from all the minerals + spectrum + government land of the country will be deposited in a bank account called Joint Account of 135 crores Indians. 65% of this amount collected will be distributed equally among all Indians and 35% will go to the Army. Entry of the amount of money given to an individual will come in his DhanVapsi Passbook. <br> National Mineral Royalty Officer (NMRO), who will collect royalty by auctioning the minerals, will be under VoteVapsi Passbook and the citizens will be able to replace him by going to the Patwari office for giving their opinion for his replacement. If there is a complaint of scam or any other complaint against the mineral officer or his staff, then the right to hear and give punishment will not be with the judge but with the jury of ordinary citizens. This law prohibits the sale of all mines in the country. There is no need to pass this law from Parliament. The Prime Minister can print it directly in the gazette. |
 
 If you support this law, send a postcard to the PM. Write this in the postcard:
 
@@ -62,7 +60,7 @@ Comment: This draft has two parts - (I) General Instructions for Citizens, (II) 
 
 (12.4) All medical colleges, IITs, NITs, engineering colleges, IISc, science and mathematics colleges will be made part of the Ministry of Health or Ministry of Defense or Ministry of Science as per what the Prime Minister decides. The concerned minister will appoint the chairman for day to day operations in these colleges. All the colleges in which the teaching work of medical, science, mathematics and engineering are being done will not come under the jurisdiction of the Mineral Officer.
 
-13. Collection of rent from Government of India owned plots.
+(13) Collection of rent from Government of India owned plots.
 
 (13.1) For unused land – The mineral royalty officer shall, at his discretion, divide a piece of land into land-blocks of proper measure, and conduct an auction for each plot. The following conditions will be applied for auction:
 
@@ -98,7 +96,7 @@ Comment: This draft has two parts - (I) General Instructions for Citizens, (II) 
 
 (13.6) NLRO will give 35% of rent collected to Defense Minister for the purpose of strengthening Military and providing weapons and weapon-use education to all citizens.
 
-14. Distribution of rent from the land and mineral royalties amongst the citizens.
+(14) Distribution of rent from the land and mineral royalties amongst the citizens.
 
 (14.1) The NLRO will dispatch 35% of the rent collected every month to the citizens residing in the State for past 10 years with limit of twice the amount received by citizens of India in last year. The NLRO will dispatch rest of rent collected every month to citizens of India.
 
@@ -130,7 +128,7 @@ less rent.
 
 (15.2) Mineral royalty and land rent received by the NMRO shall be distributed among the army, in the states and among the citizens of India in the same proportion as described in the sections relating to land rent distribution.
 
-16. Disposal of complaints by the mineral royalty officer and his staff by a jury
+(16) Disposal of complaints by the mineral royalty officer and his staff by a jury
 
 (16.1) The NMRO shall appoint a district jury administrator for each district, a state jury administrator for each state and a national jury administrator for India.
 
@@ -168,7 +166,7 @@ less rent.
 
 (18) If any citizen of the eligibility criteria given in Section 17 submits an affidavit to the District Collector Office either himself or through a lawyer, then the District Collector will submit the affidavit and will scan it to put it on PM’s website for a fee equal to the amount to be deposited in the election of the MP.
 
-19. Voter registering YES to support candidates:
+(19) Voter registering YES to support candidates:
 
 (19.1) Any citizen can go to Patwari office with his DhanVapsi Passbook on any day and register YES in support of the candidate for the post of NMRO, District Jury Administrator, State, and National Jury Administrator. Patwari will enter the voter's YES in his computer and DhanVapsi passbook. Patwari will put the voters' YES along with the names of the candidates and the voter's ID number on the district's website. A voter can give opinion for a maximum of 5 persons of his choice from among candidates for a post.
 
@@ -182,7 +180,7 @@ less rent.
 
 Range Voting — The Prime Minister or the Chief Minister can create such a system that voters can score between -100 to 100 points to a candidate. If the voter only registers yes, it will be considered equal to 100. If the voter does not register his acceptance, it will be considered as zero. But if the voter gives points then only the marks given by him will be valid. This range voting process is superior to the acceptance system, and provides immunity from Arrow's Useless Impossibility Theorem.] 
 
-20. Appointment and removal of National Mineral Officer and Jury Administrator:
+(20) Appointment and removal of National Mineral Officer and Jury Administrator:
 
 (20.1) For NMRO and National Jury Administrator: If a candidate receives more than 35% of the YES of all the voters (all voters, not only those who have given opinion) in the voter list of the country. And if these YES are also 1% more than the incumbent officer, then the Prime Minister can remove the incumbent officer and appoint the candidate with the highest approval to the relevant post, or PM may resign from his/her post. The final decision on the appointment will be made by the Prime Minister.
 
