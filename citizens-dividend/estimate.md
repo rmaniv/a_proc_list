@@ -2,7 +2,7 @@
 
 <i>April 7, 2022 (updated June 20, 2022)</i>
 
-DRAFT: ([PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view))
+| **Draft** | [English](https://vinamrsachdeva.github.io/draft) | [Hindi](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view) |
 
 ## Table 1: Contribution of different public assets
 
