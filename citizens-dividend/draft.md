@@ -197,3 +197,7 @@ Range Voting — The Prime Minister or the Chief Minister can create such a syst
 (21.2) If any voter wants to register his approval on an affidavit submitted under Section 21.1, he may register his Yes/No by paying a fee of Rs 3 in the Patwari office. Patwari will register it and put Yes/No along with voter's voter ID on the Chief Minister's website.
 
 [Comment: 4 years after the enactment of this law, if there is a positive and decisive change in the system, then any citizen can submit an affidavit under section 15 of this law, in which those activists will be given a reasonable reward as a consolation who have made efforts to implement this law. If an activist is not alive then the reward will be given to his / her nominee. This consideration may be in the form of a memento / citation etc. or some other form. If 51% of the citizens of the state register YES on this affidavit, then the Prime Minister / Chief Minister can, or may not, issue orders to implement it.]
+
+---
+
+[Home](https://vinamrsachdeva.github.io) > [Citizen's Dividend](https://vinamrsachdeva.github.io/citizens-dividend/) > Draft
