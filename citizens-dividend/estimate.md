@@ -121,4 +121,4 @@ Note: All citizens will receive payments from Dhanvapsi passbook but I'm only sh
 
 ---
 
-[Home](https://vinamrsachdeva.github.io) > [Citizen's Dividend](https://vinamrsachdeva.github.io/citizens-dividend/) > Estimate of monthly payments each citizen can fetch from Dhanvapsi Passbook
+[Home](https://vinamrsachdeva.github.io) > [Citizen's Dividend](https://vinamrsachdeva.github.io/citizens-dividend/) > Estimate
