@@ -29,7 +29,3 @@
 2. <a href = "https://vinamrsachdeva.github.io/military/">War</a>
 
 3. <a href = "https://vinamrsachdeva.github.io/courts/">Courts</a>
-
----
-
-Home
