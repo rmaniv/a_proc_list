@@ -13,6 +13,7 @@ In 2002 AD, a thread was started on [Bharat Rakshak Forum](https://forums.bharat
 1. Mehta, Rahul. [*Mathematical proof to show that “Jury System” is superior than the “judge system”*](https://vinamrsachdeva.github.io/courts/jury/401.html) ([PDF](https://rahulmehta.com/401.pdf))
 2. Mehta, Rahul. [*Importance of courts and why judge system ALWAYS fails*](https://vinamrsachdeva.github.io/courts/jury/402.html) ([PDF](https://rahulmehta.com/402.pdf))
 3. Mehta, Rahul. [*Why we, the citizens of India, must expel ALL the judges and bring the Jurors onboard*](https://vinamrsachdeva.github.io/courts/jury/403.html) ([PDF](https://rahulmehta.com/403.pdf))
+4. [Discussion on Trial by Jury (Exchange between Lucas Ribeiro and Firaro)](vinamrsachdeva.github.io/courts/jury/lucas-and-firaro.md)
 
 ## Implementation of jury trials in India
 
