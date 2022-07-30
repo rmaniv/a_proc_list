@@ -10,7 +10,7 @@ They believe that since these private security firms will have to compete to get
 
 But this doesn’t stop here. The private security firms will be in no obligation to obey your decision of not paying for their service because they have real power. They can charge you whatever they want, just like modern day governments levy taxes. Of course there will be constraints over how much can the private security firm exploit its customers. But those constrains will be no more or less than any authoritative government. 
 
-My point is that we already live in an an cap world and the an caps are in denial that we aren't.
+My point is that we already live in an an cap world and the an caps are in denial that we don't.
 
 Some an caps have come with a new line of argument: being a part of an armed tribe to protect from such exploitation. I believe almost all an caps much have seen the proof that small tribes won’t survive a day in front of large sanding armies but they choose to ignore it. The proof is the political map of the world. All such small tribes that existed once have been taken over by one standing army of a government or the other. (I do believe that having a good civilian ownership of firearms is very important and I'll cover it just in while but I don't think it is sufficient to survive in a world with modern-day weapons.)
 
