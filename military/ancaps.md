@@ -2,7 +2,7 @@
 
 *July 30, 2022*
 
-I haven’t seen a better form of denialism than believing in anarcho-capitalism. 
+I haven’t seen a better denialists than ancaps. 
 
 Ancaps love to spend hours ranting how the government is stealing your wealth via taxation and then spending it however they want. But what will happen in a world without any government? One would have to rely on private security firms to own any property. They believe that since these private security firms will have to compete to get new customers, they’ll be more efficient in enforcing property rights than the present-day military, police and courts. What they don't understand is that these private security firms will not compete in the same way that an apple-seller competes in a world with the government enforcing private property rights. In our present-day world, an apple-seller can’t kill a competing apple seller to capture the market. He’ll probably land in jail if he tries to pursue such a strategy. But a private security firm, in absence of the government, will pursue the strategy of simply going at war with the other private security firm to capture the market. The firms with better weapons will prevail. What proof do I have? Such wars have existed throughout the history of us humans. There is anarchy at the international level. But this doesn’t stop here. The private security firms will be in no obligation to obey your decision of not paying for their service because they have real power. They can charge you whatever they want, just like modern day governments levy taxes. Of course there will be constraints over how much can the firm exploit its customers. But those constrains will be no more or less than any authoritative government. 
 
