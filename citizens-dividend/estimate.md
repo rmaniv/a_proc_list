@@ -1,6 +1,6 @@
 # Estimate of monthly payments each citizen can fetch from Dhanvapsi Passbook
 
-<i>April 7, 2022 (updated June 20, 2022)</i>
+<i>April 7, 2022 (updated August 5, 2022)</i>
 
 | **Draft** | [English](https://vinamrsachdeva.github.io/citizens-dividend/draft) | [Hindi](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view) |
 
