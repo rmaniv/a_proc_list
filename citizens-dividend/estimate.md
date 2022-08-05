@@ -4,8 +4,6 @@
 
 | **Draft** | [English](https://vinamrsachdeva.github.io/citizens-dividend/draft) | [Hindi](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view) |
 
-I support Dhanvapsi Passbook because it nudges the economic structure our society is built in to fairness — it lets the owners of wealth keep the dividends from the wealth that they earn. One of its side-effects is that it’ll reduce poverty. By how much is unknown, or rather unkowable — since we don’t know how will royalties and legal coverage of mining, land rents and other sources of income change after the citizen’s dividend comes into effect owing to political pressure from citizens to increase the dividend’s value. What follows is my very primitive estimate (which I intend to improve further) that shows we can get ~Rs. 500 per citizen per month if nothing changes, and ~Rs. 5,000 if the changes align with the speculations I present (in the comments). In any case, even if the dividends yield Rs. 0.01 per person per month, I'd still support it.
-
 ## Table 1: Contribution of different public assets
 
 <table>
