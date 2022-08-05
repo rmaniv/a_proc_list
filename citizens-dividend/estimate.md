@@ -94,13 +94,15 @@ Note: All citizens will receive payments from Dhanvapsi passbook but I'm only sh
 
 ### [1] Minerals
 
-a. <b>Gautam, Vipul. "A post on royalties from minerals under Central and State governments." 3 April 2022. <a href = "https://www.facebook.com/groups/179774627122206/posts/502769448156054/">https://www.facebook.com/groups/179774627122206/posts/502769448156054/</a>.</b>
+a. <b>Gautam, Vipul. "A post on royalties from minerals under Central and State governments." 3 April 2022. <a href = "https://www.facebook.com/groups/179774627122206/posts/502769448156054/">https://www.facebook.com/groups/179774627122206/posts/502769448156054/</a>.</b> Here, Vipul Gautam finds, by looking at government data, that both the Central and State governments receive ~Rs. 50,000 crores as royalties per year.
 
 b. Conversations with staff working at mining companies reveals that only 1-10% of mining is on-books (being conducted legally) and so government isn't receiving royalties for the rest of the illegal mining (90-99% of total). Hence, as the government takes steps to reduce illegal mining this royalty rate will increase by anywhere between [no increase] to [anywhere between 10x and 100x].
 
 c. Any attempt at opening a mining company will involve you (1) bribing the licensing authority (e.g. Coal Minister for mining coal) and/or (2) being connected with local gangsters. The licensing authority's arbitrary decision on granting you mining license (influenced by his nexus with existing mining companies) and the role of mafia make mining a closed industry. Making it an open industry by removing such crony-favourable licensing laws and implementing trial by jury to end the role of mafia will increase competition in the industry and drive up royalty rates in auctions.
 
 d. An observation of how mining auctions are rigged: <a href="https://www.facebook.com/mehtarahulc/posts/pfbid022LcaSvhXHChPqyEqb6JThKMKceL3VYtSmqEaTdE6Ghd4Hck87gJUhrmhxCtZzXEDl">Mehta, Rahul. How mineral royalty theft is implemented?. 2020, May 5</a>.
+
+e. <b>Kundu, Sridhar, "A Note on the Estimated Value of Government-Owned Natural Resources in India". CBGA. 2014.</b> <a href = "http://www.cbgaindia.org/wp-content/uploads/2016/03/Estimated-Value-of-Government-Owned-Natural-Resources-in-India.pdf">http://www.cbgaindia.org/wp-content/uploads/2016/03/Estimated-Value-of-Government-Owned-Natural-Resources-in-India.pdf</a>. Here, Sridhar Kundu estimates, the total value of natural resources (except land and spectrum) to be at Rs. 5011.6 lakh crores. If we exploit all known natural resources in 500 years and the government avails 25% of its value by either royalties or mining/drilling directly via PSUs, the government can earn a revenue of Rs. 2.5 lakh crore per year (i.e. ~Rs. 150 per person per month).
 
 ### [2] Public Land
 
