@@ -54,7 +54,7 @@
   </tr>
  </table>
  
-**Note:** I have taken the total number of adults to be at 100 crore, which is roughly how many people were eligible to vote in the last general election.
+Note: I have taken the total number of adults to be at 100 crore, which is roughly how many people were eligible to vote in the last general election.
  
  ### [1] Minerals
 
