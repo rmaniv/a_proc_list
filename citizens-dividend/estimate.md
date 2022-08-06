@@ -5,9 +5,12 @@
 | **Draft** | [English](https://vinamrsachdeva.github.io/citizens-dividend/draft) | [Hindi](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view) |
 
 ## Contents
-Section A. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#a-contribution-of-different-public-assets">Contribution of different public assets</a>
-Section B. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#b-total-additional-income-for-citizens--military">Total additional income for citizens & military</a>
-Section C. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#c--increase-in-income-of-indian-households">% increase in income of Indian households</a>
+
+<a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#a-contribution-of-different-public-assets">Section A. Contribution of different public assets</a>
+
+<a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#b-total-additional-income-for-citizens--military">Section B. Total additional income for citizens & military</a>
+
+<a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#c--increase-in-income-of-indian-households">Section C. % increase in income of Indian households</a>
 
 ## A. Contribution of different public assets
 
