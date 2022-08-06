@@ -17,7 +17,7 @@
     <th>Asset</th>
     <th>Payment received as</th>
     <th>Total per annum</th>
-    <th>Per adult citizen per month</th>
+    <th>Per adult per month</th>
     <th>Source</th>
   </tr>
   <tr>
