@@ -4,95 +4,57 @@
 
 | **Draft** | [English](https://vinamrsachdeva.github.io/citizens-dividend/draft) | [Hindi](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view) |
 
-## Table 1: Contribution of different public assets
+### Contents
+
+1. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#table-1-contribution-of-different-public-assets">Contribution of different public assets</a>
+2. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#table-2-total-dividends-for-citizens--military-as-per-the-draft-of-the-law">Total dividends for citizens & military</a>
+3. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#table-3--increase-in-income-of-indian-households-after-dhanvapsi-passbook">% increase in income of Indian households after Dhanvapsi passbook</a>
+
+## 1. Contribution of different public assets
 
 <table>
   <tr>
     <th>Asset</th>
     <th>Payment received as</th>
     <th>Total per annum</th>
-    <th>Per citizen per month</th>
+    <th>Per adult citizen per month</th>
     <th>Source</th>
   </tr>
   <tr>
     <td>Minerals</td>
     <td>Royalty</td>
-    <td>Rs. 52.2 thousand crores</td>
-    <td>Rs. 31</td>
+    <td>Rs. 2.5 lakh crores</td>
+    <td>Rs. 208.33</td>
     <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#1-minerals">1</a>]</td>
   </tr>
   <tr>
     <td>Public Land</td>
     <td>Lease Rent (3% of market value per annum)</td>
     <td>Rs. 10.2 lakh crore</td>
-    <td>Rs. 607</td>
+    <td>Rs. 850</td>
     <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#2-public-land">2</a>]</td>
   </tr>
   <tr>
     <td>Public Sector Undertakings (PSUs)</td>
     <td>Profit</td>
     <td>Rs. 1.89 lakh crore</td>
-    <td>Rs. 113</td>
+    <td>Rs. 157.5</td>
     <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#3-psus">3</a>]</td>
   </tr>
   <tr>
     <td>Electromagnetic Spectrum</td>
     <td>Royalty</td>
     <td>Rs. 40 thousand crore</td>
-    <td>Rs. 24</td>
+    <td>Rs. 33.33</td>
     <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#4-spectrum">4</a>]</td>
   </tr>
   <tr>
     <th colspan = "2">Total funds per citizen per month</th>
-    <th colspan = "4">Rs. 775</th>
+    <th colspan = "4">Rs. 1,249.16</th>
   </tr>
  </table>
-
-## Table 2: Total dividends for citizens & military (as per the draft of the law)
- <table>
-  <tr>
-    <th>For</th>
-    <th>Estimated total</th>
-  </tr>
-  <tr>
-    <td><b>Citizens (67% of total)</b></td>
-    <td>More than Rs. 519 <b>per citizen per month</b><br> i.e. Rs. 32,000 <b>per household per year</b></td>
-  </tr>
-  <tr>
-    <td><b>Ministry of Defense (33% of total)</b></td>
-    <td>More than Rs. 4.3 lakh crore <b>per year</b></td>
-  </tr>
-</table>
-
-## Table 3: % increase in income of Indian households after Dhanvapsi passbook
-
-Note: All citizens will receive payments from Dhanvapsi passbook but I'm only showing numbers for 2 income groups which I think will benefit the most.
-
-<table>
-  <tr>
-    <th>Annual household income</th>
-    <th>Share of total households</th>
-    <th>% income increase</th>
-  </tr>
-  <tr>
-    <td>less than Rs. 1,00,000</td>
-    <td>poorest 16.6%</td>
-    <td>more than 30%</td>
-  </tr>
-  <tr>
-    <td>between Rs. 1,00,000 and Rs. 2,00,000</td>
-    <td>next 45%</td>
-    <td>between 15% and 30%</td>
-  </tr>
-</table>
-
-[Source: Consumer Pyramids Household Survey (CPHS)]
-
-1 Indian household = 4.8 members [Source: National Family Health Survey (NFHS)]
-
-## Comments
-
-### [1] Minerals
+ 
+ ### [1] Minerals
 
 a. <b>Gautam, Vipul. "A post on royalties from minerals under Central and State governments." 3 April 2022. <a href = "https://www.facebook.com/groups/179774627122206/posts/502769448156054/">https://www.facebook.com/groups/179774627122206/posts/502769448156054/</a>.</b> Here, Vipul Gautam finds, by looking at government data, that both the Central and State governments receive ~Rs. 50,000 crores as royalties per year. These are underestimates of how much we could get for two reasons. First, conversations with staff working at mining companies reveals that only 1-10% of mining is on-books (being conducted legally) and so government isn't receiving royalties for the rest of the illegal mining (90-99% of total). Hence, as the government takes steps to reduce illegal mining this royalty rate will increase by anywhere between [no increase] to [anywhere between 10x and 100x]. Secondly, any attempt at opening a mining company will involve you (1) bribing the licensing authority (e.g. Coal Minister for mining coal) and/or (2) being connected with local gangsters. The licensing authority's arbitrary decision on granting you mining license (influenced by his nexus with existing mining companies) and the role of mafia make mining a closed industry. Making it an open industry by removing such crony-favourable licensing laws and implementing trial by jury to end the role of mafia will increase competition in the industry and drive up royalty rates in auctions. An observation of how mining auctions are rigged: <a href="https://www.facebook.com/mehtarahulc/posts/pfbid022LcaSvhXHChPqyEqb6JThKMKceL3VYtSmqEaTdE6Ghd4Hck87gJUhrmhxCtZzXEDl">Mehta, Rahul. How mineral royalty theft is implemented?. 2020, May 5</a>.
 
@@ -121,6 +83,48 @@ PSUs riddled with inefficiency and corruption reduce the net profit citizens (th
 <b>Department of Telecommunications. "Annual Report". 2012-2017 <a href="https://dot.gov.in/reports-statistic/2471">https://dot.gov.in/reports-statistic/2471</a>.</b> I took an average of Demartment of Telecommunication's annual non-tax revenue from 2012 to 2017, which came out around Rs. 40,000 crore. This will change widely as and when new bands are auctioned.
 
 Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but it won't change the total amount by much since most DoT PSUs are running at losses. For now I've assumed all of it as spectrum royalties but I'll update this figure soon so that it is more accurate.
+
+## 2. Total dividends for citizens & military
+ <table>
+  <tr>
+    <th>For</th>
+    <th>Estimated total</th>
+  </tr>
+  <tr>
+    <td><b>Citizens (67% of total)</b></td>
+    <td>More than Rs. 837 <b>per citizen per month</b><br> i.e. Rs. 50,216 <b>per household per year</b></td>
+  </tr>
+  <tr>
+    <td><b>Ministry of Defense (33% of total)</b></td>
+    <td>More than Rs. 4.9 lakh crore <b>per year</b></td>
+  </tr>
+</table>
+
+## 3. % increase in income of Indian households after Dhanvapsi passbook
+
+Note: All citizens will receive payments from Dhanvapsi passbook but I'm only showing numbers for 2 income groups which I think will benefit the most.
+
+<table>
+  <tr>
+    <th>Annual household income</th>
+    <th>Share of total households</th>
+    <th>% income increase</th>
+  </tr>
+  <tr>
+    <td>less than Rs. 1,00,000</td>
+    <td>poorest 16.6%</td>
+    <td>more than 50%</td>
+  </tr>
+  <tr>
+    <td>between Rs. 1,00,000 and Rs. 2,00,000</td>
+    <td>next 45%</td>
+    <td>between 25% and 50%</td>
+  </tr>
+</table>
+
+[Source: Consumer Pyramids Household Survey (CPHS)]
+
+1 Indian household = 4.8 members [Source: National Family Health Survey (NFHS)]
 
 ---
 
