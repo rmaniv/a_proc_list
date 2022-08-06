@@ -4,13 +4,7 @@
 
 | **Draft** | [English](https://vinamrsachdeva.github.io/citizens-dividend/draft) | [Hindi](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view) |
 
-### Contents
-
-1. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#table-1-contribution-of-different-public-assets">Contribution of different public assets</a>
-2. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#table-2-total-dividends-for-citizens--military-as-per-the-draft-of-the-law">Total dividends for citizens & military</a>
-3. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#table-3--increase-in-income-of-indian-households-after-dhanvapsi-passbook">% increase in income of Indian households after Dhanvapsi passbook</a>
-
-## 1. Contribution of different public assets
+## A. Contribution of different public assets
 
 <table>
   <tr>
@@ -112,7 +106,7 @@ PSUs riddled with inefficiency and corruption reduce the net profit citizens (th
 
 Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but it won't change the total amount by much since most DoT PSUs are running at losses. For now I've assumed all of it as spectrum royalties but I'll update this figure soon so that it is more accurate.
 
-## 2. Total dividends for citizens & military
+## D. Total dividends for citizens & military
  <table>
   <tr>
     <th>For</th>
@@ -128,7 +122,7 @@ Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but
   </tr>
 </table>
 
-## 3. % increase in income of Indian households after Dhanvapsi passbook
+## C. % increase in income of Indian households after Dhanvapsi passbook
 
 Note: All citizens will receive payments from Dhanvapsi passbook but I'm only showing numbers for 2 income groups which I think will benefit the most.
 
