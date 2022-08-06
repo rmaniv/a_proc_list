@@ -1,4 +1,4 @@
-# Estimate of monthly payments each citizen can fetch from Dhanvapsi Passbook
+# Estimate of monthly payments each adult citizen can avail from Dhanvapsi Passbook
 
 <i>April 7, 2022 (updated August 6, 2022)</i>
 
