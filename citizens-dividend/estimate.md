@@ -120,11 +120,11 @@ Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but
   </tr>
   <tr>
     <td><b>Citizens (67% of total)</b></td>
-    <td>More than Rs. 837 <b>per citizen per month</b><br> i.e. Rs. 50,216 <b>per household per year</b></td>
+    <td>Rs. 508 to Rs. 1,731 <b>per citizen per month</b><br> i.e. Rs. 30,480 to Rs. 1,03,860 <b>per household per year</b></td>
   </tr>
   <tr>
     <td><b>Ministry of Defense (33% of total)</b></td>
-    <td>More than Rs. 4.9 lakh crore <b>per year</b></td>
+    <td>More than Rs. 2.9 lakh crores to Rs. 6.5 lakh crores <b>per year</b></td>
   </tr>
 </table>
 
@@ -141,12 +141,12 @@ Note: All citizens will receive payments from Dhanvapsi passbook but I'm only sh
   <tr>
     <td>less than Rs. 1,00,000</td>
     <td>poorest 16.6%</td>
-    <td>more than 50%</td>
+    <td>30-100% or more</td>
   </tr>
   <tr>
     <td>between Rs. 1,00,000 and Rs. 2,00,000</td>
     <td>next 45%</td>
-    <td>between 25% and 50%</td>
+    <td>15%-100% or more</td>
   </tr>
 </table>
 
