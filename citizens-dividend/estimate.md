@@ -82,7 +82,7 @@ So we can get Rs. 110 per adult citizen per month to Rs. 1,319 per adult citizen
 
 ### [2] Public Land
 
-<b>"Public Wealth Wiki." landwiki, . 21 Oct 2019, 07:52 UTC. 5 Aug 2022, 16:42. <a href = "http://wiki.dhanvapasi.com/index.php?title=Public_Wealth_Wiki&oldid=789">http://wiki.dhanvapasi.com/index.php?title=Public_Wealth_Wiki&oldid=789</a>.</b>
+<b>"Public Wealth Wiki." landwiki, . 21 Oct 2019, 07:52 UTC. 5 Aug 2022, 16:42.</b> <a href = "http://wiki.dhanvapasi.com/index.php?title=Public_Wealth_Wiki&oldid=789">http://wiki.dhanvapasi.com/index.php?title=Public_Wealth_Wiki&oldid=789</a>.
 
 Total value of surplus public land = Rs. 340 lakh crore. I assumed a rent of 3% per annum for this estimate (which is roughly the market rate).
 
@@ -94,7 +94,7 @@ As this surplus public land comes for sale into the real estate market, it'll dr
 
 ### [3] PSUs
 
-<b>"Profit of PSUs surges over 37% to Rs 1.89 lakh cr in FY21: Govt". Times Now. 15 March 2022. <a href = "https://www.timesnownews.com/business-economy/companies/profit-of-psus-surges-over-37-to-rs-1-89-lakh-cr-in-fy21-govt-article-90219227">https://www.timesnownews.com/business-economy/companies/profit-of-psus-surges-over-37-to-rs-1-89-lakh-cr-in-fy21-govt-article-90219227</a>.</b>
+<b>"Profit of PSUs surges over 37% to Rs 1.89 lakh cr in FY21: Govt". Times Now. 15 March 2022.</b> <a href = "https://www.timesnownews.com/business-economy/companies/profit-of-psus-surges-over-37-to-rs-1-89-lakh-cr-in-fy21-govt-article-90219227">https://www.timesnownews.com/business-economy/companies/profit-of-psus-surges-over-37-to-rs-1-89-lakh-cr-in-fy21-govt-article-90219227</a>.
 
 This does not include profits of State Government PSUs.
 
@@ -102,7 +102,7 @@ PSUs riddled with inefficiency and corruption reduce the net profit citizens (th
 
 ### [4] Spectrum
 
-<b>Department of Telecommunications. "Annual Report". 2012-2017 <a href="https://dot.gov.in/reports-statistic/2471">https://dot.gov.in/reports-statistic/2471</a>.</b> 
+<b>Department of Telecommunications. "Annual Report". 2012-2017.</b> <a href="https://dot.gov.in/reports-statistic/2471">https://dot.gov.in/reports-statistic/2471</a>.
 
 I took an average of Demartment of Telecommunication's annual non-tax revenue from 2012 to 2017, which came out around Rs. 40,000 crore. This will change widely as and when new bands are auctioned.
 
