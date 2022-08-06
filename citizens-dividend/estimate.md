@@ -17,7 +17,7 @@
     <th>Asset</th>
     <th>Payment received as</th>
     <th>Total per annum</th>
-    <th>Per adult citizen per month</th>
+    <th>Per adult citizen per month (considering 100 crore adult citizens)</th>
     <th>Source</th>
   </tr>
   <tr>
