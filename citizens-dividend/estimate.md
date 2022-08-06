@@ -48,7 +48,7 @@
   </tr>
  </table>
  
- ### [1] Minerals
+### [1] Minerals
 
 <b>[a] Gautam, Vipul. "A post on royalties from minerals under Central and State governments." 3 April 2022.</b> <a href = "https://www.facebook.com/groups/179774627122206/posts/502769448156054/">https://www.facebook.com/groups/179774627122206/posts/502769448156054/</a>.
 
