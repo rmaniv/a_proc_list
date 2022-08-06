@@ -17,7 +17,7 @@
     <th>Asset</th>
     <th>Payment received as</th>
     <th>Total per annum</th>
-    <th>Per adult citizen per month (considering 100 crore adult citizens)</th>
+    <th>Per adult citizen per month</th>
     <th>Source</th>
   </tr>
   <tr>
@@ -53,6 +53,8 @@
     <th colspan = "4">Rs. 1,249.16</th>
   </tr>
  </table>
+ 
+ <b><u>Note:</b></u> I have taken the total number of adults to be at 100 crore, which is roughly how many people were eligible to vote in the last general election.
  
  ### [1] Minerals
 
