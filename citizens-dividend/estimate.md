@@ -120,7 +120,7 @@ Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but
   </tr>
   <tr>
     <td><b>Ministry of Defense (33% of total)</b></td>
-    <td>More than Rs. 2.9 lakh crores to Rs. 6.5 lakh crores <b>per year</b></td>
+    <td>Rs. 2.9 lakh crores to Rs. 6.5 lakh crores <b>per year</b></td>
   </tr>
 </table>
 
