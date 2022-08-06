@@ -43,8 +43,8 @@
     <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#4-spectrum">4</a>]</td>
   </tr>
   <tr>
-    <th colspan = "2">Total funds per citizen per month</th>
-    <th colspan = "4">Rs. 758 to Rs. 2583</th>
+    <th colspan = "2">Total income</th>
+    <th colspan = "4">Rs. 758 to Rs. 2583 per adult citizen per month</th>
   </tr>
  </table>
  
