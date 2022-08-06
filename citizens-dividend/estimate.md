@@ -4,16 +4,6 @@
 
 | **Draft** | [English](https://vinamrsachdeva.github.io/citizens-dividend/draft) | [Hindi](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view) |
 
-## Contents
-
-<a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#a-contribution-of-different-public-assets">Section A. Contribution of different public assets</a>
-
-<a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#b-total-additional-income-for-citizens--military">Section B. Total additional income for citizens & military</a>
-
-<a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#c--increase-in-income-of-indian-households">Section C. % increase in income of Indian households</a>
-
-## A. Contribution of different public assets
-
 <table>
   <tr>
     <th>Asset</th>
@@ -115,48 +105,6 @@ PSUs riddled with inefficiency and corruption reduce the net profit citizens (th
 I took an average of Demartment of Telecommunication's annual non-tax revenue from 2012 to 2017, which came out around Rs. 40,000 crore. This will change widely as and when new bands are auctioned.
 
 Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but it won't change the total amount by much since most DoT PSUs are running at losses. For now I've assumed all of it as spectrum royalties but I'll update this figure soon so that it is more accurate.
-
-## B. Total additional income for citizens & military
- <table>
-  <tr>
-    <th>For</th>
-    <th>Estimated total</th>
-  </tr>
-  <tr>
-    <td><b>Citizens (67% of total)</b></td>
-    <td>Rs. 508 to Rs. 1,731 <b>per citizen per month</b><br> i.e. Rs. 30,480 to Rs. 1,03,860 <b>per household per year</b></td>
-  </tr>
-  <tr>
-    <td><b>Ministry of Defense (33% of total)</b></td>
-    <td>Rs. 2.9 lakh crores to Rs. 6.5 lakh crores <b>per year</b></td>
-  </tr>
-</table>
-
-## C. % increase in income of Indian households
-
-Note: All citizens will receive payments from Dhanvapsi passbook but I'm only showing numbers for 2 income groups which I think will benefit the most.
-
-<table>
-  <tr>
-    <th>Annual household income</th>
-    <th>Share of total households</th>
-    <th>% income increase</th>
-  </tr>
-  <tr>
-    <td>less than Rs. 1,00,000</td>
-    <td>poorest 16.6%</td>
-    <td>30-100% or more</td>
-  </tr>
-  <tr>
-    <td>between Rs. 1,00,000 and Rs. 2,00,000</td>
-    <td>next 45%</td>
-    <td>15%-100% or more</td>
-  </tr>
-</table>
-
-[Source: Consumer Pyramids Household Survey (CPHS)]
-
-1 Indian household = 4.8 members [Source: National Family Health Survey (NFHS)]
 
 ---
 
