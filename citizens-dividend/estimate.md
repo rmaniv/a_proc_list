@@ -90,7 +90,7 @@ This figure of Rs. 340 lakh crore has been calculated by <a href="https://www.za
 
 This excludes potential  royalties from land leased currently. E.g. <a href="https://www.indiatoday.in/india/north/story/delhi-airport-land-deal-scam-cag-aviation-ministry-103088-2012-05-23">Government of India gave 4,799.09 acre of prime land to, its private sector partner, DIAL for development of Delhi airport for a paltry lease rent of Rs. 4,79,909 per year for 60 years</a>. Similarly, other cronies also grab public land during auctions at the price of peanuts. One way in which this is done is: the government officer responsible for cutting the plots to be auctioned will make sure that all plots are large enough to exclude most Indians from participating in the auction. The land rent received will increase once these backroom deals with cronies end. 
 
-As this surplus public land comes for sale into the real estate market, it'll drive down the cost of land and also rent and for this reason I have taken a range of 50% of current price to 100% of current price while calculating the dividend from land rent. This will reduce the land rent citizens will get via this law but will indirectly benefit citizens as they'll be able to buy/rent real esttate at a proportionally cheaper cost. 
+As this surplus public land comes for sale into the real estate market, it'll drive down the cost of land and also rent and for this reason I have taken a range of 50% of current price to 100% of current price while calculating the dividend from land rent. This will reduce the land rent citizens will get via this law but will indirectly benefit citizens as they'll be able to buy/rent real estate at a proportionaly cheaper cost. 
 
 ### [3] PSUs
 
