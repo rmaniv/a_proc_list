@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>Public Land</td>
-    <td>Lease Rent (3% of market value per annum)</td>
+    <td>Lease Rent</td>
     <td>Rs. 5 lakh crores to Rs. 10 lakh crores</td>
     <td>Rs. 440 to Rs. 880</td>
     <td>[<a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#2-public-land">2</a>]</td>
