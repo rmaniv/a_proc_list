@@ -6,7 +6,7 @@
 
 ## Contents
 Section A. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#a-contribution-of-different-public-assets">Contribution of different public assets</a>
-Section B. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#b-total-income-for-citizens--military">Total income for citizens & military</a>
+Section B. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#b-total-additional-income-for-citizens--military">Total additional income for citizens & military</a>
 Section C. <a href = "https://vinamrsachdeva.github.io/citizens-dividend/estimate#c--increase-in-income-of-indian-households">% increase in income of Indian households</a>
 
 ## A. Contribution of different public assets
@@ -113,7 +113,7 @@ I took an average of Demartment of Telecommunication's annual non-tax revenue fr
 
 Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but it won't change the total amount by much since most DoT PSUs are running at losses. For now I've assumed all of it as spectrum royalties but I'll update this figure soon so that it is more accurate.
 
-## B. Total income for citizens & military
+## B. Total additional income for citizens & military
  <table>
   <tr>
     <th>For</th>
