@@ -64,7 +64,7 @@ Now, as time progresses we may find more mines and the market price of minerals 
 
 I have chosen 9 broad scenarios to cover how much royalty can we avail in terms of (1) % royalty/profit of market price we can avail and (2) speed of exploitation of these natural resources: if we can avail 25% of the market price at royalty, or 50% or 75% and if we choose to exploit all explored mines in 250 years, or 500 years, or 1,000 years. Now, of course these are not the only scenarios and the royalty rate and speed of extraction will depend on what the voters of India want, what technology can offer and what the general market of these minerals has to offer, but I have chosen these 3x3 = 9 scenarios to cover a broad spectrum of choices we have. 
 
-Note: exploiting all mines in 250/500/1000 years doesn't mean India will have no resources after that time since (1) more mines will be explored and (2) we'll discover new ways to use old/new minerals to fulfill our needs.
+Note: exploiting all mines in 250/500/1000 years doesn't mean India will have no resources after that time since (1) more mines will be explored and (2) we'll discover new/more efficient ways to use old/new minerals to fulfill our needs.
 
 Following is the amount we'll be able to avail for each of these scenarios on a per adult citizen per month basis considering 95 crore adult citizens:
 
