@@ -102,7 +102,9 @@ PSUs riddled with inefficiency and corruption reduce the net profit citizens (th
 
 ### [4] Spectrum
 
-<b>Department of Telecommunications. "Annual Report". 2012-2017 <a href="https://dot.gov.in/reports-statistic/2471">https://dot.gov.in/reports-statistic/2471</a>.</b> I took an average of Demartment of Telecommunication's annual non-tax revenue from 2012 to 2017, which came out around Rs. 40,000 crore. This will change widely as and when new bands are auctioned.
+<b>Department of Telecommunications. "Annual Report". 2012-2017 <a href="https://dot.gov.in/reports-statistic/2471">https://dot.gov.in/reports-statistic/2471</a>.</b> 
+
+I took an average of Demartment of Telecommunication's annual non-tax revenue from 2012 to 2017, which came out around Rs. 40,000 crore. This will change widely as and when new bands are auctioned.
 
 Some of this Rs. 40,000 crore would have come from profits of PSUs under DoT but it won't change the total amount by much since most DoT PSUs are running at losses. For now I've assumed all of it as spectrum royalties but I'll update this figure soon so that it is more accurate.
 
