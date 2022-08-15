@@ -6,8 +6,6 @@ Author: [Vinamr Sachdeva](https://vinamrsachdeva.github.io)
 
 Author's note: This wiki is under construction.
 
-* * *
-
 ## Contents
 
 *   [Introduction](https://vinamrsachdeva.github.io/citizens-dividend/wiki#introduction)
@@ -19,8 +17,6 @@ Author's note: This wiki is under construction.
     *   [Electromagnetic Spectrum](https://vinamrsachdeva.github.io/citizens-dividend/estimate#spectrum)
 *   [Impact](https://vinamrsachdeva.github.io/citizens-dividend/wiki#impact)
 *   [References and Footnotes](https://vinamrsachdeva.github.io/citizens-dividend/wiki#references-and-footnotes)
-
-* * *
 
 ## Introduction
 
@@ -36,7 +32,7 @@ Some 23 years ago, Rahul Mehta, a Gujarat-based software developer and politicia
 
   <td>Hindi draft authored by <a href = "https://facebook.com/mehtarahulc">Rahul Mehta</a>, <a href = "https://www.facebook.com/pawan.jury">Pawan Sharma</a></td>
 
-<td>[PDF](https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view))</td>
+   <td><a href = "https://drive.google.com/file/d/1J_s0SaUlHkqmfeVkR15leuaebtXhehIf/view">PDF</a></td>
 
 </tr>
 
