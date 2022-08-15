@@ -25,8 +25,11 @@ Some 23 years ago, Rahul Mehta, a Gujarat-based software developer and politicia
 - <a href = "https://vinamrsachdeva.github.io/citizens-dividend/wiki#estimate">Estimate</a>
   
   - <a href="https://vinamrsachdeva.github.io/citizens-dividend/wiki#minerals">Minerals</a>
+  
   - <a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#public-land">Public Land</a>
+  
   - <a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#psus">Public Sector Undertakings (PSUs)</a>
+  
   - <a href="https://vinamrsachdeva.github.io/citizens-dividend/estimate#spectrum">Electromagnetic Spectrum</a>
 
 - <a href = "https://vinamrsachdeva.github.io/citizens-dividend/wiki#impact">Impact</a>
