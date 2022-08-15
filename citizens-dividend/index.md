@@ -20,7 +20,7 @@ Author's note: This wiki is under construction.
 
 ## Introduction
 
-Some 23 years ago, Rahul Mehta, a Gujarat-based software developer and politician, came up with a proposed law that he named “Mineral Royalties for Citizens and Military”, or MRCM in short (later named Dhanvapsi Passbook). This proposal would allow two-thirds of the royalty payments from mining and wireless spectrum, rent collected from surplus public land and profits of PSEs would be dispensed as monthly payments to all Indians above the age of seven. The remaining third would be allocated for the military. He formed a “Right to Recall Group”, which is now “Right to Recall Party”, a party registered with the ECI. He started to publicize MRCM and other laws under this banner on YouTube and Facebook.
+Some 23 years ago, Rahul Mehta, a Gujarat-based software developer and politician, came up with a proposed law that he named “Mineral Royalties for Citizens and Military”, or MRCM in short (later named Dhanvapsi Passbook). This proposal would allow two-thirds of the royalty payments from mining and wireless spectrum, rent collected from surplus public land and profits of PSEs would be dispensed as monthly payments to all Indians above the age of seven. The remaining third would be allocated for the military. This idea is inspired from Thomas Paine's famous essay *Agrarian Justice*.
 
 ## Draft of Gazette Notification
 
@@ -38,9 +38,9 @@ Some 23 years ago, Rahul Mehta, a Gujarat-based software developer and politicia
 
 <tr>
 
-<td>English translation by <a href = "https://www.facebook.com/kushagra.y">Kushagra Yadav</a></td>
+   <td>English translation by <a href = "https://www.facebook.com/kushagra.y">Kushagra Yadav</a></td>
 
-<td><a href="">PDF</a></td>
+   <td><a href=""><a href = "https://vinamrsachdeva.github.io/citizens-dividend/draft.md">Web</a></td>
 
 </tr>
 
