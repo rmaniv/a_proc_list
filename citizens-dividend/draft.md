@@ -1,15 +1,3 @@
-# DhanVapsi Passbook– Directly Deposit Mineral Royalty in Citizens Account
-
-Authors: [Rahul C. Mehta](https://rahulmehta.com), [Pawan K. Sharma](https://www.facebook.com/pawan.jury)
-
-<p align="center"><b>Summary of this Law</b> </p><br> This law has been written to stop the loot of the country's minerals. Soon after this proposed law is published in the gazette, all the minerals and natural resources under the control of the Government of India will be declared the property of the citizens of the country, and within 30 days each voter will get a DhanVapsi Passbook. Then the royalty and rent received from all the minerals + spectrum + government land of the country will be deposited in a bank account called Joint Account of 135 crores Indians. 65% of this amount collected will be distributed equally among all Indians and 35% will go to the Army. Entry of the amount of money given to an individual will come in his DhanVapsi Passbook. <br> National Mineral Royalty Officer (NMRO), who will collect royalty by auctioning the minerals, will be under VoteVapsi Passbook and the citizens will be able to replace him by going to the Patwari office for giving their opinion for his replacement. If there is a complaint of scam or any other complaint against the mineral officer or his staff, then the right to hear and give punishment will not be with the judge but with the jury of ordinary citizens. This law prohibits the sale of all mines in the country. There is no need to pass this law from Parliament. The Prime Minister can print it directly in the gazette.
-
-If you support this law, send a postcard to the PM. Write this in the postcard:
-
-> Prime Minister, please print the proposed DhanVapsi Passbook law in the gazette #DhanVapsiRrp  , #P20180436101
-
-[Draft of Gaette Notification starts here]
-
 Comment: This draft has two parts - (I) General Instructions for Citizens, (II) Instructions for Citizens and Officers. Comments are not part of this law. Citizens and officials can use the comments for guidelines.
 
 ## Part - I: General Instructions for All Citizens
@@ -199,5 +187,3 @@ Range Voting — The Prime Minister or the Chief Minister can create such a syst
 (21.2) If any voter wants to register his approval on an affidavit submitted under Section 21.1, he may register his Yes/No by paying a fee of Rs 3 in the Patwari office. Patwari will register it and put Yes/No along with voter's voter ID on the Chief Minister's website.
 
 [Comment: 4 years after the enactment of this law, if there is a positive and decisive change in the system, then any citizen can submit an affidavit under section 15 of this law, in which those activists will be given a reasonable reward as a consolation who have made efforts to implement this law. If an activist is not alive then the reward will be given to his / her nominee. This consideration may be in the form of a memento / citation etc. or some other form. If 51% of the citizens of the state register YES on this affidavit, then the Prime Minister / Chief Minister can, or may not, issue orders to implement it.]
-
-[Draft of Gaette Notification ends here]
