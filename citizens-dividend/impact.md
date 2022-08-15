@@ -1,16 +1,58 @@
 # Impact of Dhanvapsi Passbook on the people of India
 
-[under construction.]
+## Total additional income for citizens & military
+ <table>
+  <tr>
+    <th>For</th>
+    <th colspan = "2">Estimated total</th>
+  </tr>
+  <tr>
+    <td rowspan = "2"><b>Citizens (67% of total)</b></td>
+    <td><b>per adult per month</b></td>
+    <td><b>per household per year</b></td>
+  </tr>
+  <tr>
+    <td>Rs. 508 to Rs. 1,731</td>
+    <td>Rs. 18,288 to Rs. 62,316</td>
+  </tr>
+  <tr>
+    <td><b>Ministry of Defense (33% of total)</b></td>
+    <td colspan = "2">Rs. 2.9 lakh crores to Rs. 6.5 lakh crores <b>per year</b></td>
+  </tr>
+</table>
 
-https://indianexpress.com/article/explained/explainspeaking-a-brief-history-of-indias-poverty-levels-7612086/
+For a breakup of where the payments will come from, see [Estimate of monthly payments each adult citizen can avail from Dhanvapsi Passbook](https://vinamrsachdeva.github.io/citizens-dividend/estimate)
 
-https://www.business-standard.com/article/economy-policy/india-s-per-capita-income-remains-below-pre-covid-level-in-2021-22-122053101435_1.html
+## % increase in income of Indian households
 
-https://indianexpress.com/article/india/india-very-unequal-top-10-hold-57-of-national-income-inequality-report-7661506/
+If we receive something in the middle, say Rs. 1,000 per adult per month and if, say an average Indian household has 1 earning member earning Rs. 10,000 a month and consists of 3 adults and 2 children, then that household will see their income rise by 10%. Now, I'll show the % increase in incomes for 2 income groups which comprise majority of the Indian population who also happen to be the greatest beneficiaries of the Dhanvapsi Passbook:
 
-https://www.statista.com/statistics/482584/india-households-by-annual-income/
+<table>
+  <tr>
+    <th>Annual household income</th>
+    <th>Share of total households</th>
+    <th>Minimum % income increase</th>
+    <th>Maximum % income increase</th>
+  </tr>
+  <tr>
+    <td>less than Rs. 1,00,000</td>
+    <td>poorest 16.6%</td>
+    <td>More than 18%</td>
+    <td>More than 60%</td>
+  </tr>
+  <tr>
+    <td>between Rs. 1,00,000 and Rs. 2,00,000</td>
+    <td>next 45%</td>
+    <td>More than 9%</td>
+    <td>More than 30%</td>
+  </tr>
+</table>
 
-https://economictimes.indiatimes.com/jobs/middle-income-households-account-for-largest-chunk-of-indias-unemployed-population-cmie/articleshow/90563660.cms?from=mdr
+[Source: Consumer Pyramids Household Survey (CPHS)]
+
+1 Indian household = 4.8 members [Source: National Family Health Survey (NFHS)]
+
+~60% of Indians are adults, so each household will have ~3 adults on average
 
 ---
 
