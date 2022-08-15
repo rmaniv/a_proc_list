@@ -26,8 +26,6 @@ Some 23 years ago, Rahul Mehta, a Gujarat-based software developer and politicia
 
 <table>
 
-<tbody>
-
 <tr>
 
   <td>Hindi draft authored by <a href = "https://facebook.com/mehtarahulc">Rahul Mehta</a>, <a href = "https://www.facebook.com/pawan.jury">Pawan Sharma</a></td>
@@ -43,8 +41,6 @@ Some 23 years ago, Rahul Mehta, a Gujarat-based software developer and politicia
    <td><a href=""><a href = "https://vinamrsachdeva.github.io/citizens-dividend/draft.md">Web</a></td>
 
 </tr>
-
-</tbody>
 
 </table>
 
