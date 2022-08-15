@@ -1,6 +1,6 @@
 # Citizen's dividend
 
-1. [2022, April 7: Estimate of monthly payments each citizen can avail from Dhanvapsi Passbook](https://vinamrsachdeva.github.io/citizens-dividend/estimate)
+1. [Wiki](https://vinamrsachdeva.github.io/citizens-dividend/wiki)
 
 ---
 
