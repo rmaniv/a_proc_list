@@ -9,7 +9,7 @@
   <tr>
     <td rowspan = "2"><b>Citizens (67% of total)</b></td>
     <td><b>per adult per month</b></td>
-    <td><b>per household per year</b></td>
+    <td><b>per household [1][2] per year</b></td>
   </tr>
   <tr>
     <td>Rs. 508 to Rs. 1,731</td>
@@ -29,7 +29,7 @@ If we receive something in the middle, say Rs. 1,000 per adult per month and if,
 
 <table>
   <tr>
-    <th>Annual household income</th>
+    <th>Annual household income [3]</th>
     <th>Share of total households</th>
     <th>Minimum % income increase</th>
     <th>Maximum % income increase</th>
@@ -48,11 +48,13 @@ If we receive something in the middle, say Rs. 1,000 per adult per month and if,
   </tr>
 </table>
 
-[Source: Consumer Pyramids Household Survey (CPHS)]
+### Footnotes
 
-1 Indian household = 4.8 members [Source: National Family Health Survey (NFHS)]
+[1] 1 Indian household = 4.8 members [Source: National Family Health Survey (NFHS)]
 
-~60% of Indians are adults, so each household will have ~3 adults on average
+[2] ~60% of Indians are adults, so each household will have ~3 adults on average
+
+[3] Consumer Pyramids Household Survey (CPHS)
 
 ---
 
