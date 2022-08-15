@@ -38,7 +38,7 @@ Some 23 years ago, Rahul Mehta, a Gujarat-based software developer and politicia
 
    <td>English translation by <a href = "https://www.facebook.com/kushagra.y">Kushagra Yadav</a></td>
 
-   <td><a href=""><a href = "https://vinamrsachdeva.github.io/citizens-dividend/draft.md">Web</a></td>
+   <td><a href = "https://vinamrsachdeva.github.io/citizens-dividend/draft.md">Web</a></td>
 
 </tr>
 
