@@ -8,6 +8,8 @@ If you support this law, send a postcard to the PM. Write this in the postcard:
 
 > Prime Minister, please print the proposed DhanVapsi Passbook law in the gazette #DhanVapsiRrp  , #P20180436101
 
+[Draft of Gaette Notification starts here]
+
 Comment: This draft has two parts - (I) General Instructions for Citizens, (II) Instructions for Citizens and Officers. Comments are not part of this law. Citizens and officials can use the comments for guidelines.
 
 ## Part - I: General Instructions for All Citizens
@@ -198,6 +200,4 @@ Range Voting — The Prime Minister or the Chief Minister can create such a syst
 
 [Comment: 4 years after the enactment of this law, if there is a positive and decisive change in the system, then any citizen can submit an affidavit under section 15 of this law, in which those activists will be given a reasonable reward as a consolation who have made efforts to implement this law. If an activist is not alive then the reward will be given to his / her nominee. This consideration may be in the form of a memento / citation etc. or some other form. If 51% of the citizens of the state register YES on this affidavit, then the Prime Minister / Chief Minister can, or may not, issue orders to implement it.]
 
----
-
-[Home](https://vinamrsachdeva.github.io) > [Citizen's Dividend](https://vinamrsachdeva.github.io/citizens-dividend/) > Draft
+[Draft of Gaette Notification ends here]
