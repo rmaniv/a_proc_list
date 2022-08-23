@@ -138,7 +138,7 @@ Link to spreadsheet: <https://docs.google.com/spreadsheets/d/1cLnfyjt_eGLoaYhmak
 ### **1.3 Methodology: Mineral reserve data**
 Kundu[^9] estimates the total value of all explored hydrocarbons (coal, crude oil, natural gas, etc.) and major mines and minerals in India to be at ~Rs. 5,011.6 lakh crore using the Indian Minerals Book 2011 (published by Indian Bureau of Mines, Government of India). Now, as time progresses we may find more mines and the market value of minerals also changes, so this price will change. But for now, I’ll assume only those mines which have been explored and 2011 prices which Sridhar had used, and give a range of estimates for the dividends (on a log scale) we can get if we extract the minerals in a range of 1 to 1000 years in the following graph:
 
-![](Aspose.Words.bcf41a4e-7753-4a15-832f-63b1aee432d9.001.png)
+![](Aspose.Words.304df7b9-5869-48c3-a499-70ad2bde015d.001.png)
 ## **2. Public Land**
 Total value of surplus public land = Rs. 340 lakh crore. I assumed a rent of 3% per annum for this estimate (which is roughly the market rate).
 
