@@ -1,9 +1,5 @@
 # Indian judges are also part-time police officers and prosecutors
 
-*26-Jun-2022*
-
-*Originally published at [vinamrsachdeva / a_proc_list /courts / indianjudge.md](https://github.com/vinamrsachdeva/a_proc_list/blob/main/courts/indianjudge.md) on 26 June 2022, later edited on 2 June 2023 for publication on this newsletter.*
-
 A lot of people think that judges are kind of powerless in certain stages of the criminal justice procedure and even if the judge is competent and non-corrupt, they can't do much because the police and prosecutors also have to be competent and non-corrupt --- what if they don't file an FIR? what if the police does not conduct the investigation properly? what if the prosecutor doesn't present a crucial witness? etc. While I have no issues in attempting to solve the problems in our police and prosecution, I think Indian judges have vast powers and are almost like part-time police officers and prosecutors. They can direct police to register an FIR. They can monitor and supervise police investigation. They can take up cases suo-moto (by themselves). They consult DM while they are deciding who can be a prosecutor. They can allow the victim to have private prosecution. They can summon any person as a witness and examine any person in court if they don't like the way the prosecutor is examining them. Essentially, judges are not bottlenecked by the competence and corruption of the police and prosecutors.
 
 #### 1\. Registering FIR
